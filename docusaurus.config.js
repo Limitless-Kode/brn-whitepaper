@@ -11,7 +11,7 @@ const config = {
   favicon: 'https://www.brntoken.net/',
 
   // Set the production url of your site here
-  url: 'http://whitepaper.brntoken.net/',
+  url: 'https://limitless-kode.github.io',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
   baseUrl: '/brn-whitepaper/',
