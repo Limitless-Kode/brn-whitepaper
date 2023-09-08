@@ -162,7 +162,7 @@ const config = {
               ],
             },
           ],
-          copyright: `Copyright © ${new Date().getFullYear()} BRN Metaverse Software INC. Built with Docusaurus.`,
+          copyright: `Copyright © ${new Date().getFullYear()} BRN Metaverse Software INC.`,
         },
         prism: {
           theme: lightCodeTheme,
