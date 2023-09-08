@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkbrn_metaverse_whitepaper=self.webpackChunkbrn_metaverse_whitepaper||[]).push([[100],{3769:e=>{e.exports=JSON.parse('{"name":"docusaurus-plugin-content-docs","id":"default"}')}}]);
