@@ -94,194 +94,262 @@ Each character in our game has NFTs that add different powers to the characters.
  
 + **Angel**
 
-:::tip NFT Weapon
+:::caution NFT Weapon
 
 <Tabs>
-  <TabItem value="T1" label="T1"> +5 Attack Power bonus & +40 HP bonus </TabItem>
-  <TabItem value="T2 " label="T2"> </TabItem> 
-  <TabItem value="T3" label="T3"> </TabItem>
+  <TabItem value="T⭐" label="T⭐">+5 Attack Power bonus & +40 HP bonus</TabItem>
+  <TabItem value="T⭐⭐ " label="T⭐⭐">+8 Attack power bonus 3% movement speed bonus, and +80 hp bonus</TabItem> 
+  <TabItem value="T⭐⭐⭐" label="T⭐⭐⭐">+10 Attack power bonus and +80 hp bonus</TabItem>
+</Tabs>
+
+::: 
+:::caution NFT Protector
+
+<Tabs>
+  <TabItem value="T⭐" label="T⭐">+5 Defense increase and +30 Hp bonus (When the 4-Piece set is completed, it gains an additional +200 hp bonus.)</TabItem>
+  <TabItem value="T⭐⭐ " label="T⭐⭐">+7 Defense increase and +40 hp bonus (When the 4-Piece set is completed, it gains an additional +300 hp bonus.)</TabItem> 
+  <TabItem value="T⭐⭐⭐" label="T⭐⭐⭐">+2 Magic power bonus, +9 Defense increase, and +60 Hp bonus (When the 4-Piece set is completed, it gains an additional +400 hp bonus.)</TabItem>
+</Tabs>
+
+:::
+
++ **Axer**
+
+:::caution NFT Weapon
+
+<Tabs>
+  <TabItem value="T⭐" label="T⭐">+3 Attack power bonus and +45 HP bonus</TabItem>
+  <TabItem value="T⭐⭐ " label="T⭐⭐">+6 Attack power bonus and +70 HP bonus</TabItem> 
+  <TabItem value="T⭐⭐⭐" label="T⭐⭐⭐">+10 Attack power bonus and +90 HP bonus</TabItem>
+</Tabs>
+
+::: 
+:::caution NFT Protector
+
+<Tabs>
+  <TabItem value="T⭐" label="T⭐">+6 defense increase and +35 HP bonus (When the 4-piece set is completed, it gains an additional +250 HP bonus.) </TabItem>
+  <TabItem value="T⭐⭐ " label="T⭐⭐">+7 defense increase and +45 HP bonus (When the 4-piece set is completed, it gains an additional +400 HP bonus.)</TabItem> 
+  <TabItem value="T⭐⭐⭐" label="T⭐⭐⭐">+10 defense increase and +55 HP bonus (When the 4-piece set is completed, it gains an additional +550 HP bonus.)</TabItem>
 </Tabs>
 
 :::
 
 
-
-+ **Angel**
-
->NFT T1 Weapon = +25 Magic Power and +50 HP
-
->NFT T2 Weapon = +50 Magic Power, +%3 Movement Speed, and +75 HP
-
->NFT T3 Weapon = +70 Magic Power, +%3 Cooldown Reduction, and +100 HP
-
->NFT T1 Protector (per piece) = +5 Armor Increase, +5 Magic Resistance Increase, and +30 HP (When 4 piece set is completed, gains additional +600 HP bonus and +%7 Evasion.)
-
->NFT T2 Protector (per piece) = +10 Armor Increase, +20 Magic Resistance Increase, and +35 HP (When 4 piece set is completed, gains additional +450 HP and +%6 Cooldown Reduction.)
-
->NFT T3 Protector (per piece) = +10 Magic Power, +15 Armor Increase, +15 Magic Resistance Increase, and +25 HP (When 4 piece set is completed, gains additional +600 HP and +%7 Cooldown Reduction.)
-
-+ **Axer**
-
->NFT T1 Weapon = +15 Physical Damage and +100 HP
-
->NFT T2 Weapon = +30 Physical Damage and +200 HP
-
->NFT T3 Weapon = +45 Physical Damage, +10 Magic Power, +10 Armor Increase, and +400 HP
-
->NFT T1 Protector (per piece) = +10 Armor Increase, +10 Magic Resistance Increase, and +30 HP (Completing the 4-piece set gives an additional +300 hp bonus and +%5 Evasion.)
-
->NFT T2 Protector (per piece) = +20 Armor Increase, +20 Magic Resistance Increase, and +40 HP (Completing the 4-piece set gives an additional +450 hp bonus and +%6 Evasion.)
-
->NFT T3 Protector (per piece) = +30 Armor Increase, +20 Magic Resistance Increase, and +50 HP (Completing the 4-piece set gives an additional +600 hp bonus and +%7 Evasion.)
-
-
 + **Barbarossa**
 
->NFT T1 Weapon = +15 Physical Damage and +100 HP
+:::caution NFT Weapon
 
->NFT T2 Weapon = +30 Physical Damage and +250 HP
+<Tabs>
+  <TabItem value="T⭐" label="T⭐">+3 Attack power bonus and +50 HP bonus</TabItem>
+  <TabItem value="T⭐⭐ " label="T⭐⭐">+6 Attack power bonus and +75 HP bonus</TabItem> 
+  <TabItem value="T⭐⭐⭐" label="T⭐⭐⭐">+10 Attack power bonus and +100 HP bonus</TabItem>
+</Tabs>
 
->NFT T3 Weapon = +40 Physical Damage, +15 Armor Increase and +400 HP
+::: 
+:::caution NFT Protector
 
->NFT T1 Protector (per piece) = +10 Armor Increase, +10 Magic Resistance Increase and +30 HP (When the 4-piece set is completed, an additional +300 HP bonus and +%5 Evasion is gained.)
+<Tabs>
+  <TabItem value="T⭐" label="T⭐">+6 Defense increase and +40 HP bonus (When the 4-piece set is completed, an additional +200 HP bonus is gained.) </TabItem>
+  <TabItem value="T⭐⭐ " label="T⭐⭐">+7 Defense increase and +45 HP bonus (When the 4-piece set is completed, an additional +375 HP bonus is gained.)</TabItem> 
+  <TabItem value="T⭐⭐⭐" label="T⭐⭐⭐">+10 Defense increase and +50 HP bonus (When the 4-piece set is completed, an additional +550 HP bonus is gained.)</TabItem>
+</Tabs>
 
->NFT T2 Protector (per piece) = +20 Armor Increase, +20 Magic Resistance Increase and +40 HP (When the 4-piece set is completed, an additional +450 HP bonus and +%6 Evasion is gained.)
-
->NFT T3 Protector (per piece) = +30 Armor Increase, +25 Magic Resistance Increase and +50 HP (When the 4-piece set is completed, an additional +600 HP bonus and +%7 Evasion is gained.)
+:::
 
 
 + **Barton**
 
->NFT T1 Weapon = +25 Physical Damage bonus and +5 Armor Increase
+:::caution NFT Weapon
 
->NFT T2 Weapon = +30 Physical Damage bonus, +10 Armor Increase, and +10 Magic Resistance Increase
+<Tabs>
+  <TabItem value="T⭐" label="T⭐">+7 Attack power bonus, +15 HP bonus, and +4 defense increase</TabItem>
+  <TabItem value="T⭐⭐ " label="T⭐⭐">+10 Attack power bonus, +30 HP bonus, and +6 defense increase</TabItem> 
+  <TabItem value="T⭐⭐⭐" label="T⭐⭐⭐">+13 Attack power bonus, +60 HP bonus, and +8 defense increase</TabItem>
+</Tabs>
 
->NFT T3 Weapon = +55 Physical Damage bonus, +15 Armor Increase, +15 Magic Resistance Increase, and +150 HP
+::: 
+:::caution NFT Protector
 
->NFT T1 Protector (per piece) = +5 Armor Increase and +3 Magic Resistance Increase (Completing the 4-piece set grants additional +250 HP, +5% Evasion, and +5% Movement Speed bonus)
+<Tabs>
+  <TabItem value="T⭐" label="T⭐">+3 defense increase and 35 HP bonus (When the 4-piece set is completed, it gains an additional +150 HP and +3% movement speed bonus.)</TabItem>
+  <TabItem value="T⭐⭐ " label="T⭐⭐">+4 defense increase and +45 HP increase (When the 4-piece set is completed, it gains an additional +250 HP and +5% movement speed bonus.)</TabItem> 
+  <TabItem value="T⭐⭐⭐" label="T⭐⭐⭐">+50 HP bonus, +6 defense increase, and +3% attack speed bonus (When the 4-piece set is completed, it gains an additional +400 HP and +7% movement speed bonus.)</TabItem>
+</Tabs>
 
->NFT T2 Protector (per piece) = +10 Armor Increase, +8 Magic Resistance Increase, and +50 HP (Completing the 4-piece set grants additional +400 HP, +6% Evasion, and +6% Movement Speed bonus)
-
->NFT T3 Protector (per piece) = +20 HP, +5 Armor Increase, +5 Magic Resistance Increase, and +3% Attack Speed (Completing the 4-piece set grants additional +550 HP, +7% Evasion, and +7% Movement Speed bonus)
+:::
 
 
 + **Elf**
 
->NFT T1 Weapon = +35 Physical Damage and +30 HP
+:::caution NFT Weapon
 
->NFT T2 Weapon = +55 Physical Damage and +50 HP
+<Tabs>
+  <TabItem value="T⭐" label="T⭐">+10 Attack power bonus and +25 HP bonus</TabItem>
+  <TabItem value="T⭐⭐ " label="T⭐⭐">+16 Attack power bonus and +50 HP bonus</TabItem> 
+  <TabItem value="T⭐⭐⭐" label="T⭐⭐⭐">+24 Attack power bonus and +75 HP bonus</TabItem>
+</Tabs>
 
->NFT T3 Weapon = +70 Physical Damage and +%10 Critical Bonus
+::: 
+:::caution NFT Protector
 
->NFT T1 Protector (per piece) = +25 HP and +%1 Attack Speed (When 4 pieces are completed, an additional bonus of +350 HP, +%10 Critical, and +%5 Attack Speed is gained.)
+<Tabs>
+  <TabItem value="T⭐" label="T⭐">+20 HP bonus and +3 defense increase (Additional +100 HP and +3% attack speed bonus when the 4-piece set is completed.)</TabItem>
+  <TabItem value="T⭐⭐ " label="T⭐⭐">+30 HP bonus, +4 defense increase, and +1 Attack power bonus (Additional +150 HP and +6% attack speed bonus when the 4-piece set is completed.)</TabItem> 
+  <TabItem value="T⭐⭐⭐" label="T⭐⭐⭐">+5 defense increase and +2 Attack power bonus (Additional +400 HP and +8% attack speed bonus when the 4-piece set is completed.)</TabItem>
+</Tabs>
 
->NFT T2 Protector (per piece) = +%3 Evasion Bonus, +40 HP, +5 Armor Increase, and +5 Magic Resistance Increase (When 4 pieces are completed, an additional bonus of +500 HP, +%10 Critical, and +%6 Attack Speed is gained.)
-
->NFT T3 Protector (per piece) = +8 Armor Increase, +8 Magic Resistance Increase, and +8 Physical Damage (When 4 pieces are completed, an additional bonus of +650 HP, +%15 Critical, and +%7 Attack Speed is gained.)
+:::
 
 
 + **Harley**
 
->NFT T1 Weapon = +35 Physical Damage and +25 HP
+:::caution NFT Weapon
 
->NFT T2 Weapon = +55 Physical Damage and +50 HP
+<Tabs>
+  <TabItem value="T⭐" label="T⭐">+6 Attack power bonus and +20 HP bonus</TabItem>
+  <TabItem value="T⭐⭐ " label="T⭐⭐">+12 Attack power bonus and +35 HP bonus</TabItem> 
+  <TabItem value="T⭐⭐⭐" label="T⭐⭐⭐">+22 Attack power bonus and +3% attack speed bonus</TabItem>
+</Tabs>
 
->NFT T3 Weapon = +70 Physical Damage and +%1.5 Attack Speed
+::: 
+:::caution NFT Protector
 
->NFT T1 Protector (per piece) = +30 HP (When the 4-piece set is completed, it gains an additional +%5 Attack speed bonus and +%5 Movement speed bonus.)
+<Tabs>
+  <TabItem value="T⭐" label="T⭐">+4 defense increase and 30 HP bonus (When the 4-piece set is completed, it gains an additional +150 HP, +2% attack speed bonus, and +2% movement speed bonus.)</TabItem>
+  <TabItem value="T⭐⭐ " label="T⭐⭐">+6 defense increase, +45 HP increase (When the 4-piece set is completed, it gains an additional +250 HP, +4% attack speed bonus, and +4% movement speed bonus.)</TabItem> 
+  <TabItem value="T⭐⭐⭐" label="T⭐⭐⭐">+50 HP bonus, +8 defense increase (When the 4-piece set is completed, it gains an additional +450 HP, +6% attack speed bonus, and +5% movement speed bonus.)</TabItem>
+</Tabs>
 
->NFT T2 Protector (per piece) = +5 Armor Increase, +5 Magic Resistance Increase, and +%1 Attack Speed (When the 4-piece set is completed, it gains an additional +%6 Attack speed bonus and +%6 Movement speed bonus.)
-
->NFT T3 Protector (per piece) = +5 Armor Increase, +5 Magic Resistance Increase, and +75 HP (When the 4-piece set is completed, it gains an additional +400 hp, +%7 Attack speed bonus, and +%7 Movement speed bonus.)
+:::
 
 
 + **Metabot**
 
->NFT T1 Weapon = +35 Magic Power
+:::caution NFT Weapon
 
->NFT T2 Weapon = +55 Magic Power and +50 HP
+<Tabs>
+  <TabItem value="T⭐" label="T⭐">+13 Attack power bonus and +25 HP bonus</TabItem>
+  <TabItem value="T⭐⭐ " label="T⭐⭐">+17 Attack power bonus and +40 HP bonu</TabItem> 
+  <TabItem value="T⭐⭐⭐" label="T⭐⭐⭐">+21 Attack power bonus and +70 HP bonus</TabItem>
+</Tabs>
 
->NFT T3 Weapon = +65 Magic Power and +100 HP
+::: 
+:::caution NFT Protector
 
->NFT T1 Protector (per piece) = +25 HP, +3 Armor Increase and +3 Magic Resistance Increase (Completing the 4-piece set grants an additional +300 HP bonus and +%5 movement speed bonus.)
+<Tabs>
+  <TabItem value="T⭐" label="T⭐">+20 HP bonus and +2 defense increase (When the 4-piece set is completed, it gains an additional +85 HP.) </TabItem>
+  <TabItem value="T⭐⭐ " label="T⭐⭐">+2 Attack power bonus, +30 HP bonus, +3 defense increase (When the 4-piece set is completed, it gains an additional +125 HP.)</TabItem> 
+  <TabItem value="T⭐⭐⭐" label="T⭐⭐⭐">+4 Attack power bonus and +4 defense increase (When the 4-piece set is completed, it gains an additional +350 HP.)</TabItem>
+</Tabs>
 
->NFT T2 Protector (per piece) = +10 Magic Power, +30 HP, +5 Armor Increase and +5 Magic Resistance Increase (Completing the 4-piece set grants an additional +450 HP bonus and +%6 movement speed bonus.)
-
->NFT T3 Protector (per piece) = +15 Magic Power, +%2 Attack Speed, +5 Armor and +5 Magic Resistance (Completing the 4-piece set grants an additional +600 HP bonus and +%7 movement speed bonus.)
+:::
 
 
 + **Metawatt**
 
->NFT T1 Weapon = +35 Magic Power Increase and +25 HP
+:::caution NFT Weapon
 
->NFT T2 Weapon = +65 Magic Power Increase, +50 HP
+<Tabs>
+  <TabItem value="T⭐" label="T⭐">+11 Attack power bonus and +20 HP bonus</TabItem>
+  <TabItem value="T⭐⭐ " label="T⭐⭐">+17 Attack power bonus and +50 HP bonus</TabItem> 
+  <TabItem value="T⭐⭐⭐" label="T⭐⭐⭐">+25 Attack power bonus and +75 HP bonus</TabItem>
+</Tabs>
 
->NFT T3 Weapon = +75 Magic Power Increase and +100 HP
+::: 
+:::caution NFT Protector
 
->NFT T1 Protector (per piece) = +25 HP and +3 Armor Increase (When the 4-piece set is completed, it gains an additional +350 HP and +%10 Evasion Bonus.)
+<Tabs>
+  <TabItem value="T⭐" label="T⭐">+20 HP bonus and +3 defense increase (When the 4-piece set is completed, it gains an additional +100 HP and +3% attack speed bonus.)</TabItem>
+  <TabItem value="T⭐⭐ " label="T⭐⭐">+30 HP bonus, +4 defense increase, and 1 Attack power bonus (When the 4-piece set is completed, it gains an additional +140 HP and +6% attack speed bonus.)</TabItem> 
+  <TabItem value="T⭐⭐⭐" label="T⭐⭐⭐">+5 defense increase and +2 Attack power bonus (When the 4-piece set is completed, it gains an additional +375 HP and +8% attack speed bonus.)</TabItem>
+</Tabs>
 
->NFT T2 Protector (per piece) = +10 Magic Power, +30 HP, +5 Armor Increase, and +5 Magic Resistance Increase (When the 4-piece set is completed, it gains an additional +500 HP and +%11 Evasion Bonus.)
-
->NFT T3 Protector (per piece) = +15 Magic Power and +5 Armor Increase (When the 4-piece set is completed, it gains an additional +500 HP and +%11 Evasion Bonus.)
-
+:::
 
 + **Ninja**
 
->NFT T1 Weapon = +35 Physical Damage and +25 HP
+:::caution NFT Weapon
 
->NFT T2 Weapon = +50 Physical Damage and +%3 Attack Speed
+<Tabs>
+  <TabItem value="T⭐" label="T⭐">+8 Attack power bonus and +25 HP bonus, +2 defense increase</TabItem>
+  <TabItem value="T⭐⭐ " label="T⭐⭐">+8 Attack power bonus and +25 HP bonus, +2 defense increase</TabItem> 
+  <TabItem value="T⭐⭐⭐" label="T⭐⭐⭐">+26 Attack power bonus and +5% attack speed bonus</TabItem>
+</Tabs>
 
->NFT T3 Weapon = +75 Physical Damage and +%5 Attack Speed
+::: 
+:::caution NFT Protector
 
->NFT T1 Protector (per piece) = +35 HP, +2 Armor Increase, and +2 Magic Resistance Increase (Completing the 4-piece set grants an additional +150 HP, +%10 Evasion bonus, and +%5 movement speed bonus.)
+<Tabs>
+  <TabItem value="T⭐" label="T⭐">+25 HP bonus and +3 defense increase (When the 4-piece set is completed, it gains an additional +125 HP and +3% movement speed bonus.)</TabItem>
+  <TabItem value="T⭐⭐ " label="T⭐⭐">+40 HP bonus, +5 defense increase (When the 4-piece set is completed, it gains an additional +200 HP and +5% movement speed bonus.)</TabItem> 
+  <TabItem value="T⭐⭐⭐" label="T⭐⭐⭐">+65 HP bonus, +7 defense increase, and +3% attack speed bonus (When the 4-piece set is completed, it gains an additional +250 HP and +7% movement speed bonus.)</TabItem>
+</Tabs>
 
->NFT T2 Protector (per piece) = +45 HP and +%3 Movement Speed (Completing the 4-piece set grants an additional +300 HP, +%11 Evasion bonus, and +%6 movement speed bonus.)
-
->NFT T3 Protector (per piece) = +50 HP, +10 Armor Increase, +5 Magic Resistance Increase, and +%5 Attack Speed (Completing the 4-piece set grants an additional +450 HP, +%12 Evasion bonus, and +%8 movement speed bonus.)
+:::
 
 
 + **Reef**
->NFT T1 Weapon = +25 Magic Power and +50 HP
+:::caution NFT Weapon
 
->NFT T2 Weapon = +50 Magic Power, +%5 Movement Speed, and +75 HP
+<Tabs>
+  <TabItem value="T⭐" label="T⭐">+5 Attack power bonus and +40 HP bonus</TabItem>
+  <TabItem value="T⭐⭐ " label="T⭐⭐">+8 Attack power bonus, +3% movement speed bonus, and +65 HP bonus</TabItem> 
+  <TabItem value="T⭐⭐⭐" label="T⭐⭐⭐">+10 Attack power bonus and +70 HP bonus</TabItem>
+</Tabs>
 
->NFT T3 Weapon = +65 Magic Power, +%3 Movement Speed, and +100 HP
+::: 
+:::caution NFT Protector
 
->NFT T1 Protector (per piece) = +5 Armor Increase, +5 Magic Resistance Increase, and +30 HP (When the 4-piece set is completed, it gains an additional +300 HP and +%5 Reduction in Cooldown Time.)
+<Tabs>
+  <TabItem value="T⭐" label="T⭐">+5 Defense increase and +30 HP bonus (When the 4-piece set is completed, it gains an additional +175 HP bonus.)</TabItem>
+  <TabItem value="T⭐⭐ " label="T⭐⭐">+7 Defense increase and +40 HP bonus (When the 4-piece set is completed, it gains an additional +300 HP bonus.)</TabItem> 
+  <TabItem value="T⭐⭐⭐" label="T⭐⭐⭐">+2 Magic power bonus, +9 defense increase, and +60 HP bonus (When the 4-piece set is completed, it gains an additional +400 HP bonus.)</TabItem>
+</Tabs>
 
->NFT T2 Protector (per piece) = +10 Armor Increase, +20 Magic Resistance Increase, and +35 HP (When the 4-piece set is completed, it gains an additional +450 HP and +%6 Reduction in Cooldown Time.)
-
->NFT T3 Protector (per piece) = +10 Magic Power, +15 Armor Increase, +15 Magic Resistance Increase, and +25 HP (When the 4-piece set is completed, it gains an additional +600 HP and +%8 Reduction in Cooldown Time.)
+:::
 
 
 + **Router**
 
->NFT T1 Weapon = +35 Physical Damage and +25 HP
+:::caution NFT Weapon
 
->NFT T2 Weapon = +50 Physical Damage and +%3 Attack Speed
+<Tabs>
+  <TabItem value="T⭐" label="T⭐">+9 Attack power bonus and +25 HP bonus</TabItem>
+  <TabItem value="T⭐⭐ " label="T⭐⭐">+16 Attack power bonus and +3% attack speed bonus</TabItem> 
+  <TabItem value="T⭐⭐⭐" label="T⭐⭐⭐">+27 Attack power bonus and +5% attack speed bonus</TabItem>
+</Tabs>
 
->NFT T3 Weapon = +75 Physical Damage and +%5 Attack Speed
+::: 
+:::caution NFT Protector
 
->NFT T1 Protector (per piece) = +35 HP, +2 Armor Increase, and +2 Magic Resistance Increase (When the 4-piece set is completed, it gains an additional +%10 Evasion Bonus, +150 HP, and +%5 Movement Speed Bonus.)
+<Tabs>
+  <TabItem value="T⭐" label="T⭐">+25 HP bonus and +3 defense increase (When the 4-piece set is completed, it gains an additional +100 HP and +3% movement speed bonus.)</TabItem>
+  <TabItem value="T⭐⭐ " label="T⭐⭐">+40 HP bonus, +5 defense increase (When the 4-piece set is completed, it gains an additional +200 HP and +5% movement speed bonus.)</TabItem> 
+  <TabItem value="T⭐⭐⭐" label="T⭐⭐⭐">+65 HP bonus, +7 defense increase, and +3% attack speed bonus (When the 4-piece set is completed, it gains an additional +240 HP and +7% movement speed bonus.)</TabItem>
+</Tabs>
 
->NFT T2 Protector (per piece) = +45 HP, +5 Armor Increase, +5 Magic Resistance Increase, and +%3 Movement Speed (When the 4-piece set is completed, it gains an additional +%11 Evasion Bonus, +300 HP, and +%5 Movement Speed Bonus.)
-
->NFT T3 Protector (per piece) = +50 HP, +10 Armor Increase, and +5 Magic Resistance Increase (When the 4-piece set is completed, it gains an additional +%12 Evasion Bonus, +450 HP, and +%6 Movement Speed Bonus.)
-
+:::
 
 + **Witch**
 
->NFT T1 Weapon = +35 Magic Power and +25 HP
->NFT T2 Weapon = +60 Magic Power and +50 HP
+:::caution NFT Weapon
 
->NFT T3 Weapon = +75 Magic Power and +100 HP
+<Tabs>
+  <TabItem value="T⭐" label="T⭐">+12 Attack power bonus and +25 hp bonus</TabItem>
+  <TabItem value="T⭐⭐ " label="T⭐⭐">+16 Attack power bonus and +50 hp bonus</TabItem> 
+  <TabItem value="T⭐⭐⭐" label="T⭐⭐⭐">+21 Attack power bonus and +70 hp bonus</TabItem>
+</Tabs>
 
->NFT T1 Protector (per piece) = +25 HP and +3 Armor Increase (When the 4-piece set is completed, it gains an additional +350 HP and +%10 Evasion bonus.)
+::: 
+:::caution NFT Protector
 
->NFT T2 Protector (per piece) = +10 Magic Power, +30 HP, +5 Armor Increase and +5 Magic Resistance Increase (When the 4-piece set is completed, it gains an additional +500 HP and +%12 Evasion bonus.)
+<Tabs>
+  <TabItem value="T⭐" label="T⭐">+20 hp bonus and +2 defense increase (Additional +85 hp when the 4-piece set is completed.)</TabItem>
+  <TabItem value="T⭐⭐ " label="T⭐⭐">+2 Attack power bonus, +30 hp bonus, +3 defense increase (Additional +125 hp when the 4-piece set is completed.)</TabItem> 
+  <TabItem value="T⭐⭐⭐" label="T⭐⭐⭐">+4 Attack power bonus and +4 defense increase (Additional +350 hp when the 4-piece set is completed.)</TabItem>
+</Tabs>
 
->NFT T3 Protector (per piece) = +15 Magic Power and +5 Armor Increase (When the 4-piece set is completed, it gains an additional +650 HP and +%13 Evasion bonus.)
-
+:::
 
 ### Alchemy System & NFT 
 
