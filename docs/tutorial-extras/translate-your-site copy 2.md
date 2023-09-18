@@ -380,4 +380,6 @@ The bonuses you get from using alchemy on your NFT are as follows:
   <TabItem value="➕3" label="➕3">+8 Defense and +30 HP</TabItem>
 </Tabs>
 
-::: 
+:::  
+
+If alchemy fails, the NFT reverts back to +0. There is no risk of losing the NFT.
