@@ -363,14 +363,21 @@ In our game, each NFT you acquire for your character comes with a +0 bonus. Whil
 
 The bonuses you get from using alchemy on your NFT are as follows:
 
->**NFT Weapon +1 Bonus** = +10 Physical Damage or +10 Magic Damage (depending on the character's use of physical or magic damage)
+:::info NFT Weapon
 
->**NFT Weapon +2 Bonus** = +25 Physical Damage or +25 Magic Damage (depending on the character's use of physical or magic damage)
+<Tabs>
+  <TabItem value="➕1" label="➕1">+6 Attack power</TabItem>
+  <TabItem value="➕2" label="➕2">+10 Attack power</TabItem> 
+  <TabItem value="➕3" label="➕3">+16 Attack power</TabItem>
+</Tabs>
 
->**NFT Weapon +3 Bonus** = +45 Physical Damage or +45 Magic Damage (depending on the character's use of physical or magic damage)
+::: 
+:::info NFT Protector
 
->**NFT Protector +1 Bonus** = +10 Armor, +10 Magic Resistance, and +50 HP
+<Tabs>
+  <TabItem value="➕1" label="➕1">+3 Defense and +30 HP</TabItem>
+  <TabItem value="➕2" label="➕2">+5 Defense and +30 HP</TabItem> 
+  <TabItem value="➕3" label="➕3">+8 Defense and +30 HP</TabItem>
+</Tabs>
 
->**NFT Protector +2 Bonus** = +25 Armor, +25 Magic Resistance, and +100 HP
-
->**NFT Protector +3 Bonus** = +40 Armor, +40 Magic Resistance, and +150 HP
+::: 
