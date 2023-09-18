@@ -103,7 +103,7 @@ Each character in our game has NFTs that add different powers to the characters.
 </Tabs>
 
 ::: 
-:::caution NFT Protector
+:::note NFT Protector
 
 <Tabs>
   <TabItem value="T⭐" label="T⭐">+5 Defense increase and +30 Hp bonus (When the 4-Piece set is completed, it gains an additional +200 hp bonus.)</TabItem>
@@ -113,9 +113,9 @@ Each character in our game has NFTs that add different powers to the characters.
 
 :::
 
-+ **Axer**
+#### Axer
 
-:::caution NFT Weapon
+:::note NFT Weapon
 
 <Tabs>
   <TabItem value="T⭐" label="T⭐">+3 Attack power bonus and +45 HP bonus</TabItem>
@@ -124,7 +124,7 @@ Each character in our game has NFTs that add different powers to the characters.
 </Tabs>
 
 ::: 
-:::caution NFT Protector
+:::note NFT Protector
 
 <Tabs>
   <TabItem value="T⭐" label="T⭐">+6 defense increase and +35 HP bonus (When the 4-piece set is completed, it gains an additional +250 HP bonus.) </TabItem>
@@ -135,9 +135,9 @@ Each character in our game has NFTs that add different powers to the characters.
 :::
 
 
-+ **Barbarossa**
+#### Barbarossa
 
-:::caution NFT Weapon
+:::note NFT Weapon
 
 <Tabs>
   <TabItem value="T⭐" label="T⭐">+3 Attack power bonus and +50 HP bonus</TabItem>
@@ -146,7 +146,7 @@ Each character in our game has NFTs that add different powers to the characters.
 </Tabs>
 
 ::: 
-:::caution NFT Protector
+:::note NFT Protector
 
 <Tabs>
   <TabItem value="T⭐" label="T⭐">+6 Defense increase and +40 HP bonus (When the 4-piece set is completed, an additional +200 HP bonus is gained.) </TabItem>
@@ -157,9 +157,9 @@ Each character in our game has NFTs that add different powers to the characters.
 :::
 
 
-+ **Barton**
+#### Barton
 
-:::caution NFT Weapon
+:::note NFT Weapon
 
 <Tabs>
   <TabItem value="T⭐" label="T⭐">+7 Attack power bonus, +15 HP bonus, and +4 defense increase</TabItem>
@@ -168,7 +168,7 @@ Each character in our game has NFTs that add different powers to the characters.
 </Tabs>
 
 ::: 
-:::caution NFT Protector
+:::note NFT Protector
 
 <Tabs>
   <TabItem value="T⭐" label="T⭐">+3 defense increase and 35 HP bonus (When the 4-piece set is completed, it gains an additional +150 HP and +3% movement speed bonus.)</TabItem>
@@ -179,9 +179,9 @@ Each character in our game has NFTs that add different powers to the characters.
 :::
 
 
-+ **Elf**
+#### Elf
 
-:::caution NFT Weapon
+:::note NFT Weapon
 
 <Tabs>
   <TabItem value="T⭐" label="T⭐">+10 Attack power bonus and +25 HP bonus</TabItem>
@@ -190,7 +190,7 @@ Each character in our game has NFTs that add different powers to the characters.
 </Tabs>
 
 ::: 
-:::caution NFT Protector
+:::note NFT Protector
 
 <Tabs>
   <TabItem value="T⭐" label="T⭐">+20 HP bonus and +3 defense increase (Additional +100 HP and +3% attack speed bonus when the 4-piece set is completed.)</TabItem>
@@ -201,9 +201,9 @@ Each character in our game has NFTs that add different powers to the characters.
 :::
 
 
-+ **Harley**
+#### Harley
 
-:::caution NFT Weapon
+:::note NFT Weapon
 
 <Tabs>
   <TabItem value="T⭐" label="T⭐">+6 Attack power bonus and +20 HP bonus</TabItem>
@@ -212,7 +212,7 @@ Each character in our game has NFTs that add different powers to the characters.
 </Tabs>
 
 ::: 
-:::caution NFT Protector
+:::note NFT Protector
 
 <Tabs>
   <TabItem value="T⭐" label="T⭐">+4 defense increase and 30 HP bonus (When the 4-piece set is completed, it gains an additional +150 HP, +2% attack speed bonus, and +2% movement speed bonus.)</TabItem>
@@ -223,9 +223,9 @@ Each character in our game has NFTs that add different powers to the characters.
 :::
 
 
-+ **Metabot**
+#### Metabot
 
-:::caution NFT Weapon
+:::note NFT Weapon
 
 <Tabs>
   <TabItem value="T⭐" label="T⭐">+13 Attack power bonus and +25 HP bonus</TabItem>
@@ -234,7 +234,7 @@ Each character in our game has NFTs that add different powers to the characters.
 </Tabs>
 
 ::: 
-:::caution NFT Protector
+:::note NFT Protector
 
 <Tabs>
   <TabItem value="T⭐" label="T⭐">+20 HP bonus and +2 defense increase (When the 4-piece set is completed, it gains an additional +85 HP.) </TabItem>
@@ -245,9 +245,9 @@ Each character in our game has NFTs that add different powers to the characters.
 :::
 
 
-+ **Metawatt**
+#### Metawatt
 
-:::caution NFT Weapon
+:::note NFT Weapon
 
 <Tabs>
   <TabItem value="T⭐" label="T⭐">+11 Attack power bonus and +20 HP bonus</TabItem>
@@ -256,7 +256,7 @@ Each character in our game has NFTs that add different powers to the characters.
 </Tabs>
 
 ::: 
-:::caution NFT Protector
+:::note NFT Protector
 
 <Tabs>
   <TabItem value="T⭐" label="T⭐">+20 HP bonus and +3 defense increase (When the 4-piece set is completed, it gains an additional +100 HP and +3% attack speed bonus.)</TabItem>
@@ -266,9 +266,9 @@ Each character in our game has NFTs that add different powers to the characters.
 
 :::
 
-+ **Ninja**
+#### Ninja
 
-:::caution NFT Weapon
+:::note NFT Weapon
 
 <Tabs>
   <TabItem value="T⭐" label="T⭐">+8 Attack power bonus and +25 HP bonus, +2 defense increase</TabItem>
@@ -277,7 +277,7 @@ Each character in our game has NFTs that add different powers to the characters.
 </Tabs>
 
 ::: 
-:::caution NFT Protector
+:::note NFT Protector
 
 <Tabs>
   <TabItem value="T⭐" label="T⭐">+25 HP bonus and +3 defense increase (When the 4-piece set is completed, it gains an additional +125 HP and +3% movement speed bonus.)</TabItem>
@@ -288,8 +288,8 @@ Each character in our game has NFTs that add different powers to the characters.
 :::
 
 
-+ **Reef**
-:::caution NFT Weapon
+#### Reef 
+:::note NFT Weapon
 
 <Tabs>
   <TabItem value="T⭐" label="T⭐">+5 Attack power bonus and +40 HP bonus</TabItem>
@@ -298,7 +298,7 @@ Each character in our game has NFTs that add different powers to the characters.
 </Tabs>
 
 ::: 
-:::caution NFT Protector
+:::note NFT Protector
 
 <Tabs>
   <TabItem value="T⭐" label="T⭐">+5 Defense increase and +30 HP bonus (When the 4-piece set is completed, it gains an additional +175 HP bonus.)</TabItem>
@@ -309,9 +309,9 @@ Each character in our game has NFTs that add different powers to the characters.
 :::
 
 
-+ **Router**
+#### Router
 
-:::caution NFT Weapon
+:::note NFT Weapon
 
 <Tabs>
   <TabItem value="T⭐" label="T⭐">+9 Attack power bonus and +25 HP bonus</TabItem>
@@ -320,7 +320,7 @@ Each character in our game has NFTs that add different powers to the characters.
 </Tabs>
 
 ::: 
-:::caution NFT Protector
+:::note NFT Protector
 
 <Tabs>
   <TabItem value="T⭐" label="T⭐">+25 HP bonus and +3 defense increase (When the 4-piece set is completed, it gains an additional +100 HP and +3% movement speed bonus.)</TabItem>
@@ -330,9 +330,9 @@ Each character in our game has NFTs that add different powers to the characters.
 
 :::
 
-+ **Witch**
+#### Witch
 
-:::caution NFT Weapon
+:::note NFT Weapon
 
 <Tabs>
   <TabItem value="T⭐" label="T⭐">+12 Attack power bonus and +25 hp bonus</TabItem>
@@ -341,7 +341,7 @@ Each character in our game has NFTs that add different powers to the characters.
 </Tabs>
 
 ::: 
-:::caution NFT Protector
+:::note NFT Protector
 
 <Tabs>
   <TabItem value="T⭐" label="T⭐">+20 hp bonus and +2 defense increase (Additional +85 hp when the 4-piece set is completed.)</TabItem>
