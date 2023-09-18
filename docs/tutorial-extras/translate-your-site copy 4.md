@@ -35,157 +35,133 @@ When choosing characters, it is important to know their BASIC Stat ratios. Knowi
 **Character Stats**
 
 :::info **🧙🏻‍♀️ Witch**
-|**Physical Attack**  | 0| 
+|**Attack Power**  | 117 | 
 |------|-------------|
-| **Magic Power**|   35         | 
-| **Health**|      4200    |  
+| **Health**|      2510    |  
 | **Energy**|         1000   |
-| **Armor**|         11   |
-| **Magic Resistance**|         9   |
-| **Movement Speed**|         113   |
+| **Defense**|         0   |
+| **Movement Speed**|         115   |
 | **Attack Speed**|         0   |
 
 :::
 
 :::info **🧝🏻‍♀️ Elf**
-|**Physical Attack**  | 33| 
+|**Attack Power**  | 130 | 
 |------|-------------|
-| **Magic Power**|   0         | 
-| **Health**|       4300     |  
-| **Energy**|        1000  |
-| **Armor**|         11   |
-| **Magic Resistance**|         9   |
-| **Movement Speed**|         110  |
-| **Attack Speed**|         0   |
+| **Health**|      2570    |  
+| **Energy**|         1000   |
+| **Defense**|         0  |
+| **Movement Speed**|         113   |
+| **Attack Speed**|         13   |
 
 :::
 
 :::info **⚓ Barbarossa**
-|**Physical Attack**  | 0| 
+|**Attack Power**  | 105| 
 |------|-------------|
-| **Magic Power**|   15       | 
-| **Health**|       4850    |  
-| **Energy**|        1000  |
-| **Armor**|         35  |
-| **Magic Resistance**|         32  |
-| **Movement Speed**|         97  |
+| **Health**|      3700    |  
+| **Energy**|         1000   |
+| **Defense**|         14   |
+| **Movement Speed**|         103   |
 | **Attack Speed**|         0   |
 
 :::
 
 :::info **🧚🏻Angel**
-|**Physical Attack**  | 0| 
+|**Attack Power**  | 115 | 
 |------|-------------|
-| **Magic Power**|   25      | 
-| **Health**|       4500    |  
-| **Energy**|        1000  |
-| **Armor**|         20  |
-| **Magic Resistance**|         17  |
-| **Movement Speed**|         105  |
+| **Health**|      2600    |  
+| **Energy**|         1000   |
+| **Defense**|         10  |
+| **Movement Speed**|         108   |
 | **Attack Speed**|         0   |
 
 :::
 
 :::info **⚔️ Barton n**
-|**Physical Attack**  | 27| 
+|**Attack Power**  | 126 | 
 |------|-------------|
-| **Magic Power**|  0      | 
-| **Health**|       4350   |  
-| **Energy**|        1000  |
-| **Armor**|         17  |
-| **Magic Resistance**|         15  |
-| **Movement Speed**|         107  |
+| **Health**|      4200    |  
+| **Energy**|         1000   |
+| **Defense**|         11   |
+| **Movement Speed**|         113   |
 | **Attack Speed**|         0   |
 
 ::: 
 
 :::info **🛡️ Harley **
-|**Physical Attack**  |33| 
+|**Attack Power**  | 0| 
 |------|-------------|
-| **Magic Power**|  0      | 
-| **Health**|       4400  |  
-| **Energy**|        1000  |
-| **Armor**|         15  |
-| **Magic Resistance**|         13  |
-| **Movement Speed**|         107  |
+| **Health**|      4200    |  
+| **Energy**|         1000   |
+| **Defense**|         11   |
+| **Movement Speed**|         113   |
 | **Attack Speed**|         0   |
 
 :::
 
 :::info **🥷🏼 Ninja**
-|**Physical Attack**  |17| 
+|**Attack Power**  | 0| 
 |------|-------------|
-| **Magic Power**|  0      | 
-| **Health**|       4350  |  
-| **Energy**|        1000  |
-| **Armor**|         9 |
-| **Magic Resistance**|         12  |
-| **Movement Speed**|         109  |
+| **Health**|      4200    |  
+| **Energy**|         1000   |
+| **Defense**|         11   |
+| **Movement Speed**|         113   |
 | **Attack Speed**|         0   |
 
 ::: 
 
 :::info **🦾 Axer**
-|**Physical Attack**  |15| 
+|**Attack Power**  | 0| 
 |------|-------------|
-| **Magic Power**|  5     | 
-| **Health**|       4850  |  
-| **Energy**|        1000  |
-| **Armor**|         32  |
-| **Magic Resistance**|         28  |
-| **Movement Speed**|         97  |
+| **Health**|      4200    |  
+| **Energy**|         1000   |
+| **Defense**|         11   |
+| **Movement Speed**|         113   |
 | **Attack Speed**|         0   |
 
 :::
 
 :::info **🤖 Metabot**
-|**Physical Attack**  |0| 
+|**Attack Power**  | 0| 
 |------|-------------|
-| **Magic Power**|  35     | 
-| **Health**|       4250  |  
-| **Energy**|        1000  |
-| **Armor**|         10  |
-| **Magic Resistance**|         9 |
-| **Movement Speed**|         110 |
+| **Health**|      4200    |  
+| **Energy**|         1000   |
+| **Defense**|         11   |
+| **Movement Speed**|         113   |
 | **Attack Speed**|         0   |
 
 :::
 
 :::info **⚡Metawatt**
-|**Physical Attack**  |0| 
+|**Attack Power**  | 0| 
 |------|-------------|
-| **Magic Power**|  35     | 
-| **Health**|       4250  |  
-| **Energy**|        1000  |
-| **Armor**|         12 |
-| **Magic Resistance**|        9  |
-| **Movement Speed**|       115 |
+| **Health**|      4200    |  
+| **Energy**|         1000   |
+| **Defense**|         11   |
+| **Movement Speed**|         113   |
 | **Attack Speed**|         0   |
 
 :::
 
 :::info **🐠 Reef **
-|**Physical Attack**  |0| 
+|**Attack Power**  | 0| 
 |------|-------------|
-| **Magic Power**|  20     | 
-| **Health**|       4500  |  
-| **Energy**|        1000  |
-| **Armor**|         20  |
-| **Magic Resistance**|         17  |
-| **Movement Speed**|         105 |
+| **Health**|      4200    |  
+| **Energy**|         1000   |
+| **Defense**|         11   |
+| **Movement Speed**|         113   |
 | **Attack Speed**|         0   |
 
 :::
 
 :::info **⛓️ Router**
-|**Physical Attack**  |35| 
+|**Attack Power**  | 0| 
 |------|-------------|
-| **Magic Power**|  0     | 
-| **Health**|       4400  |  
-| **Energy**|        1000  |
-| **Armor**|         10 |
-| **Magic Resistance**|         10  |
-| **Movement Speed**|         109  |
+| **Health**|      4200    |  
+| **Energy**|         1000   |
+| **Defense**|         11   |
+| **Movement Speed**|         113   |
 | **Attack Speed**|         0   |
 
 ::: 
@@ -207,7 +183,7 @@ Endless Ranger Awakening features a diverse cast of 12 characters, each with 4 a
 :::
 
 :::info **🧝🏻‍♀️ Elf**
-* Straight hit damage: 123
+* Straight hit damage: 130
 * Skill 1: Costs 140 Energy and deals 320-500 Physical damage.
 * Skill 2: Costs 200 Energy and deals 220-380 Physical damage.
 * Skill 3: Costs 175 Energy and deals 70 Physical damage per second for 5 seconds.
@@ -217,7 +193,7 @@ Endless Ranger Awakening features a diverse cast of 12 characters, each with 4 a
 
 
 :::info **⚓ Barbarossa**
-* Straight hit damage: 117
+* Straight hit damage: 105
 * Skill 1: Costs 175  Energy and deals 220~380 Magic damage.
 * Skill 2: Costs 145 Energy and deals 30 Magic damage per second for 5 seconds
 * Skill 3: Costs 280 Energy and deals 230~320 Magic damage
@@ -227,7 +203,7 @@ Endless Ranger Awakening features a diverse cast of 12 characters, each with 4 a
 
 
 :::info **🧚🏻Angel**
-* Straight hit damage: 117
+* Straight hit damage: 115
 * Skill 1: Costs 120 Energy  (285~420 Magic damage)
 * Skill 2: Costs 145 Energy  (-)
 * Skill 3: Costs 275 Energy  (-)
@@ -237,7 +213,7 @@ Endless Ranger Awakening features a diverse cast of 12 characters, each with 4 a
 
 
 :::info **⚔️ Barton n**
-* Straight hit damage: 135
+* Straight hit damage: 126
 * Skill 1: Costs 140 Energy and deals 315~450 Physical damage.
 * Skill 2: Costs 175 Energy and grants +15 Physical bonus for 5 seconds.
 * Skill 3: Costs 260 Energy and deals 345~495 Physical damage.
@@ -245,7 +221,7 @@ Endless Ranger Awakening features a diverse cast of 12 characters, each with 4 a
 :::
 
 :::info **🛡️ Harley **
-* Straight hit damage: 127
+* Straight hit damage: 126
 * Skill 1: 135 Energy cost (165~250 Physical damage. This damage is applied x2 times)
 * Skill 2: 150 Energy cost (-)
 * Skill 3: 285 Energy cost (310~445 Physical damage)
@@ -280,7 +256,7 @@ Endless Ranger Awakening features a diverse cast of 12 characters, each with 4 a
 :::
 
 :::info **⚡Metawatt**
-* Straight hit damage: 120
+* Straight hit damage: 139
 * Skill 1: Energy cost of 185 (315~490 Magic damage)
 * Skill 2: Energy cost of 275 (270~385 Magic damage)
 * Skill 3: Energy cost of 130 (-)
