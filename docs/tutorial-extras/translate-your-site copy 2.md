@@ -92,9 +92,9 @@ The most important way to develop your characters in our game is to customize th
 
 Each character in our game has NFTs that add different powers to the characters. NFTs are divided into two categories for each character, "Weapon" and "Protector". Each character has one Weapon NFT and four Protector NFTs. The features provided by these NFTs to the characters are as follows;
  
-+ **Angel**
+#### Angel
 
-:::caution NFT Weapon
+:::note NFT Weapon
 
 <Tabs>
   <TabItem value="T⭐" label="T⭐">+5 Attack Power bonus & +40 HP bonus</TabItem>
