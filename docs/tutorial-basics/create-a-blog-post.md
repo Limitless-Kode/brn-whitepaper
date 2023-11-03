@@ -101,6 +101,9 @@ In the championship tournament that will take place once a month and in which a 
 
 ***Rare:*** Level 2 Inventory. It will be added to the game through a patch after a certain period of time from the game launch. It requires 6 ERA Tickets to purchase inventories other than weapons, and 10 ERA Tickets for weapons.
 
-***Special:*** Level 3 Inventory. It will be added to the game long after Special is introduced. Once added, it will become the most valuable and exceptional inventory. It requires 10 ERA Tickets to purchase inventories other than weapons, and 14 ERA Tickets for weapons.
+***Special:*** Level 3 Inventory. It will be added to the game long after Special is introduced. Once added, it will become 
+the most valuable and exceptional inventory. It requires 10 ERA Tickets to purchase inventories other than weapons, and 14 ERA Tickets for weapons.
+
+***Item Box:*** It is a box that contains Elite, Special, and Rare items.
 
 :::
