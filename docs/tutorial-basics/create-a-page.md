@@ -18,7 +18,7 @@ The Flywheel NPC allows you to participate in the "Spin & Win" event and win var
 
 The Mission Helper NPC reminds you of tasks created in the game to ensure sustainability and awards you for completed tasks.
 
-The Robotic NPC allows you to convert the NFT Tickets you earned in the game into real NFTs, which can then be used or sold in the game's marketplace.
+The Robotic NPC allows you to convert the ERA Tickets you earned in the game into real items, which can then be used or sold in the game's marketplace.
 
 
 ## Polygon
