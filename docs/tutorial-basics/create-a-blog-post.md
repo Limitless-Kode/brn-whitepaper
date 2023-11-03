@@ -6,7 +6,7 @@ sidebar_position: 3
 
 In BRN Metaverse GameFi ecosystem, there are several key elements and interactions: 
 
--**In-game inventories** provide weapons, protectors, pets, and alchemy stones that grant unique abilities to characters. These inventories can be earned, used in in-game activities, or bought and sold.
+- **In-game inventories** provide weapons, protectors, pets, and alchemy stones that grant unique abilities to characters. These inventories can be earned, used in in-game activities, or bought and sold.
 - **Virtual Economies:** The BRN Metaverse GameFi ecosystem creates virtual economies where the value of in-game assets is determined by player demand, rarity, and utility. These assets can hold real-world value outside of the game.
 - **Play to earn:** Players can earn cryptocurrencies, dollars or other valuable tokens (NFTs) by participating in in-game arenas, completing tasks, reaching goals, or contributing to the ecosystem through the "play-to-earn" concept.
 
