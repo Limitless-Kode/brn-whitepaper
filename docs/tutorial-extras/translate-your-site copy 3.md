@@ -8,7 +8,7 @@ Once you access the Endless Ranger Awakening, you will come across a total of fo
 
 **1. Fight For BRN Arenas**
 
-**2. BRN Arenas**
+**2. ERA Arena**
 
 **3. Unique(Boss) Arenas**
 
@@ -20,7 +20,11 @@ We hope you enjoy exploring our game modes! Check out the detailed explanations 
 
 ## Fight for BRN Arena 
 
-To enter the arenas (1vs1-5vs5) and fight, first use the Connect Wallet system. Once inside, you'll see a selection button with 10 different risk options,ranging from 10 BRN to 5000 BRN. (10 BRN, 50 BRN, 75 BRN, 100 BRN, 200 BRN, 500 BRN, 750 BRN, 1000 BRN, 2500 BRN, 5000 BRN) Choose the one that suits you best.  You can also battle a friend in a 1vs1 arena by inviting them through the "friends" section. Request that they add their own amount of BRN to the system according to your selected rate. If you prefer to match with a random player, select the amount of BRN you want to add to the pool and wait for an opponent to match with you. There is a 10-second preparation time before the battle starts. Additionally, entering the Fight For BRN arena gives you +5 points towards your BRN Rank, and the winning player receives an additional +10 BRN Rank. BRN Rank is reset every month, and the top 3 players receive USD and various rewards from us.
+To enter the arenas (1vs1-5vs5) and fight, first use the Connect Wallet system. Once inside, you'll see a selection button with 10 different risk options,ranging from 10 BRN to 5000 BRN. (10 BRN, 50 BRN, 75 BRN, 100 BRN, 200 BRN, 500 BRN, 750 BRN, 1000 BRN, 2500 BRN, 5000 BRN) Choose the one that suits you best.  You can also battle a friend in a 1vs1 arena by inviting them through the "friends" section. Request that they add their own amount of BRN to the system according to your selected rate. If you prefer to match with a random player, select the amount of BRN you want to add to the pool and wait for an opponent to match with you. There is a 10-second preparation time before the battle starts.
+
+Additionally, when you emerge victorious in this arena, you will be rewarded with BRN in proportion to the amount you risked. Furthermore, your ranking will ascend in the Ranking System. Each victory will propel you to a higher rank, and at the conclusion of the month, you will also receive a USDT reward as part of our rank reset.
+
+(An explanation of the Rank System will be provided at the end of the page).
 
 ### 1 vs 1 
 The battle lasts for 3 minutes. Ief a player loses their internet connection during the fight, they have 30 seconds to reconnect. If they fail to do so, they automatically lose the battle. For each opponent you kill, you earn +2 points. The player with the most points at the end of the 3 minutes wins. After winning, 95% of the BRN Tokens in the common pool are automatically sent to the player. The remaining 5% are kept by the game team for development and rewards.
@@ -37,25 +41,19 @@ The battle will last for 5 minutes. Each player that is killed will earn +2 poin
 ### 5 vs 5 
 The battle will last a total of 7 minutes. Killing each enemy player will give your team +2 points. You can see how many enemies each player has killed on the Kill counter, which opens and closes on the right side of the arena. You can open or close it anytime you want, to avoid distractions during the battle. The team that is ahead when the time runs out will win the battle. The amounts left in the pool will be distributed equally among the winning teams, and 5% will be sent to the developer's wallet for game development and events distribution within the game every month.
 
-:::tip Differences between Fight For BRN Arena and BRN Arena
+## ERA Arena
 
-The BRN Metaverse aims to be an inclusive platform that incorporates various technologies to cater to a wide range of users. Upon logging in, you will have the option to choose from three different technologies. WEB1 is the first option, which we have implemented to attract more players to the game. You can simply log in with your username and password. We also offer a "Log in with Gmail" option, which is a more widespread technology called WEB2, making it easier for users of all backgrounds to access the game. The latest technology is WEB3, which is fully supported by the BRN Metaverse ecosystem and is constantly being improved to enhance the user experience. Using WEB3, you can log in with your decentralized wallets, which is necessary to receive any income you earn in the game. When logging in with WEB3, none of your data is stored with us, and there are no cookies. User security is of utmost importance, and it is entirely up to the user to ensure it.
+In this game arena, players can always enter without any cost and earn Rank points. These points can be used to obtain activity tokens and USDT. In this mode, battles are limited to teams of 5 players. You have the option to either form a team in advance or enter matchmaking as a solo player and get paired with random teams at any time of the day.
 
-To enter the game, you need an identity, a card to withdraw earnings, and a wallet for purchases. If you choose to log in with WEB1 or WEB2, you can only play in the BRN Arena, which is primarily for entertainment and testing purposes. The arenas range from 1vs1 to 5vs5, and players can choose to form teams or be randomly matched with others. BRN Arena is free and entertainment arenas, which are designed to allow players to test various arenas and characters, have fun, and prepare for bigger battles. 
-
-On the other hand, Fight for BRN Arenas is where players can earn more income from the game and engage in more serious battles. Entering the arenas gives you +5 activity points, and winning battles earns you more activity points. Each month, players can rank high in BRN Rank and receive USD and various rewards based on their ranking.
-
-:::
-
-
+By participating in matches, you will accumulate Rank points, which are reset every month. (Please refer to the "ranks and rewards" section for more details on the Rank system.) Additionally, the arenas in this mode will undergo regular changes and new arenas will be introduced.
 
 ## Unique(Boss) Arenas
 
-Our modes are designed to optimize user experience and enhance enjoyment. In BOSS arena modes, competition is at its peak, with all players vying for supremacy over time. Defeating these Bosses not only rewards you with prizes, but also enables you to advance in BOSS Rank. If you manage to secure a spot in the top 3 of the BOSS Rank, which resets monthly, you will receive USD and various rewards. Each Boss has its own arena, and players must locate and fight them. Some Bosses are incredibly powerful, so be cautious as your character may perish in the attempt to defeat them. With 12 unique characters in our game, each possessing distinct abilities and powers, certain strategies may prove more effective in different modes. Your character selection and NFTs will set you apart from the rest. Without further ado, let us introduce the Bosses of our BOSS Arenas in greater detail.
+Our modes are designed to optimize user experience and enhance enjoyment. In Unique(Boss) arena modes, competition is at its peak, with all players vying for supremacy over time. Defeating these Bosses not only rewards you with prizes, but also enables you to advance in Unique(Boss) Rank. If you manage to secure a spot in the top 3 of the BOSS Rank, which resets monthly, you will receive USD and various rewards. Each Boss has its own arena, and players must locate and fight them. Some Bosses are incredibly powerful, so be cautious as your character may perish in the attempt to defeat them. With 6 unique characters in our game, each possessing distinct abilities and powers, certain strategies may prove more effective in different modes. Your character selection and ıtems will set you apart from the rest. Without further ado, let us introduce the Bosses of our Unique(Boss) Arenas in greater detail.
 
 ### Wild 
 
-Wild, the most valuable boss in the game, is born every day at 6:30 PM UTC in his very own arena, the Wild Arena! With unique powers and peculiarities, his arena enchants players who want to take him down. He's also the boss that deals the most damage to players in the game and offers the most valuable rewards. Whenever a player enters the Wild Arena, they receive a +50 activity rank that's reset every month. The top 3 players with the highest activity rank receive rewards. The battle against Wild continues until he's defeated, and the player who takes him down receives a 1 NFT Ticket BOX.
+Wild, the most valuable boss in the game, is born every day at 6:30 PM UTC in his very own arena, the Wild Arena! With unique powers and peculiarities, his arena enchants players who want to take him down. He's also the boss that deals the most damage to players in the game and offers the most valuable rewards. Whenever a player enters the Wild Arena, they receive a +50 activity rank that's reset every month. The top 3 players with the highest activity rank receive rewards. The battle against Wild continues until he's defeated, and the player who takes him down receives a 1 Era Ticket and 1 Activity Token BOX.
 
 :::info 
 
@@ -64,7 +62,7 @@ This box is very useful in the game as it helps strengthen your character and ea
 ::: 
 
 :::tip Reward
-The player who takes Wild down receives a 1 NFT Ticket BOX + 100 Unique (BOSS) rank points.
+The player who takes Wild down receives a  1 Era Ticket and 1 Activity Token Box + 100 Unique (BOSS) Rank Points +50 Activity Rank Point
 :::
 
 The health and damage of the Wild Boss in our game:
@@ -219,7 +217,7 @@ In Endless Ranger Awakening, players can participate in both individual and comm
 
 :::tip Reward
 
-Winning clan members will receive 1 NFT Ticket BOX each, and entering the Clan Battle Arena gives players +100 activity points.
+Winning clan members will receive 1 ERA Ticket + 1 Activity Token Box each, and entering the Clan Battle Arena gives players +100 activity points + 1 Activity Token.
 
 :::
 
@@ -260,7 +258,7 @@ Please note that the battle mode is closed for the first 10 seconds after the ev
 In ERA, players not only participate in individual battles and challenges, but also in community battles. To register for this event, players must sign up with the REGAR NPC. Teams consist of 5 players, and matches are played between two teams. The arena is equipped with Artificial Intelligence support and players are randomly assigned to teams based on the application rate. Before the event starts, no player can predict which team they will be on. Once the event begins, players are placed on either team A or B. The satellite is located at an equal distance from both teams in the center of the field. To acquire the satellite, a player clicks on it and waits for 5 seconds. After obtaining the satellite, the player must take it to their own area, click on the satellite addition area in their own area, and wait for another 5 seconds to place the satellite in their own area. Opposing players will fight to take control of the satellite. If a player decides to play for time instead of taking the satellite to their own area after obtaining it from the middle area, the satellite will automatically fall from the opponent's head every 30 seconds, and the opposing player can pick it up. The player who drops the satellite or the opposing player can take control of it again by standing on the fallen satellite for 5 seconds. When time runs out, the team that successfully places the satellite in their own satellite base wins the event. It is important to note that the satellite must be placed in the satellite placement area for it to count. If there is no satellite in any area, the event ends in a draw.
 
 :::tip Reward
-- Players will receive +10 activity rank points upon entry and +1 activity rank point for each kill.
+- Players will receive +10 activity rank points +1 activity token upon entry and +1 activity token for each kill. (Player can receive a maximum of 2 kill rewards for each player.)
 - Winning teams will receive 25 Activity Tokens
 - Losing teams will receive 5 Activity Tokens
 - If there is a tie, both teams will receive 5 activity tokens.
@@ -282,7 +280,7 @@ For the first 10 seconds after the event starts, combat mode is disabled to give
 :::tip Reward
 
 + 25 Activity Tokens for the last warrior
-+ 2 Activity Tokens for each warrior who is killed
++ 2 Activity Tokens for each warrior who takes a killed
 + +8 Activity Rank Points for entering 
 + +1 activity rank point for each character killed.
 
@@ -291,15 +289,28 @@ For the first 10 seconds after the event starts, combat mode is disabled to give
 
 ## Ranks & Rewards
 
-### BRN Rank
+### Ranking System
+By entering the BRN Arena and ERA Arena in our game, you can increase your Rank . In our game, there are a total of 7 ranks: Unranked, Bronze, Silver, Gold, Platinum, Diamond, and Endless. Players start as Unranked when they enter the game. In order to progress in ranked matches, they need a total of 100 points. Ranks are divided into 3 divisions among themselves. For example, Bronze 1, Bronze 2, Bronze 3, Silver 1, Silver 2, Silver 3, and so on until Diamond 1, Diamond 2, Diamond 3, and Endless (Final rank). Bronze 3 is a higher rank than Bronze 1, which means a player who is Silver 3 is at a higher level than a player who is Silver 1.
+Endless is the final rank, and once a player reaches this rank, their goal will be to remain at the top of the Ranked Leaderboard by only accumulating points.
 
-You can earn income by ranking in the BRN Arena leaderboard every month, which has 5 different modes (1vs1 to 5vs5).
+NOTE: The ranked leaderboard will be reset at the beginning of each month.
 
->**BRN Rank Awards**
+Additionally, before the ranked leaderboard is reset, the player who ranks 1st will receive 1x 100% NFT Box, 3x ERA Ticket + Special Title, and $50 cash.
 
->**1st**   400$ + 1 NFT BOX + 300 Activity Tokens + 1 Special Pet + Title
+>**Ranking System Awards**
 
->**2nd**   NFT TICKET BOX + 150 Activity Tokens
+>**1st**   $400 + 1x 100% Item Box, 3x ERA Ticket + Special Title
+
+Rewards will be given to increase players' motivation with each rank transition. These rewards will be sent to the players' inbox by the system. The rewarding will be applied for every full rank achieved.
+
+- Rewards will be given to increase players' motivation with each rank transition. These rewards will be sent to the players' INBOX by the system. The rewarding will be applied for every full rank achieved.
+- When transitioning from Bronze 3 to Silver 1, 20x Activity Tokens will be rewarded.
+- When transitioning from Silver 3 to Gold 1, 40x Activity Tokens will be rewarded.
+- When transitioning from Gold 3 to Platinum 1, 60x Activity Tokens will be rewarded.
+- When transitioning from Platinum 3 to Diamond 1, 80x Activity Tokens will be rewarded.
+- When transitioning from Diamond 3 to Endless, 200x Activity Tokens + 3x Chance Card + 3 Global will be rewarded.
+
+>**2nd**   
 
 
 ### Unique (Boss) Rank
