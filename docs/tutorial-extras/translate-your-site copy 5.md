@@ -12,11 +12,11 @@ In the BRN Metaverse universe, you can earn money by spending time in the game. 
 
 ## Trade and Marketplace
 
-BRN Metaverse offers players the opportunity to use NFTs they acquire within the game's universe to strengthen their characters and sell the acquired NFTs on their NFT Marketplace. Rather than relying on existing blockchain products, BRN Metaverse has developed its own ecosystem that is more advanced and up-to-date. To prepare for the expected EVT trend in the future, the marketplace was created specifically for this ecosystem, rather than relying on existing NFT marketplaces.
+BRN Metaverse offers players the chance to strengthen their characters and sell their acquired items in-game or on the website, using the items they have obtained in the game universe.
 
-In the BRN Metaverse universe, players can participate in events to earn various rewards, which can then be converted into NFTs. By participating in events, you can earn Activity tokens that can be converted into NFT Tickets at the Actiswap NPC located in the Main Arena. Once you have enough Tickets, you can also convert them into NFTs. The game uses a Play to Win system, rather than Pay to Win. You can also obtain products by participating in events within the game that you can purchase on the marketplace.
+In the BRN Metaverse, players can take part in events to earn various rewards, which can then be exchanged for items. By participating in events, you can convert event tokens into ERA Tickets at the Actiswap NPC in the Main Arena. Once you have enough Tickets, you can exchange them for items. The game uses a Play to Win system instead of Pay to Win. Additionally, you can also obtain items by participating in in-game events that are available for purchase from the store.
 
-It is important to note that the goal of BRN Metaverse is to turn your time spent within the game into income.
+It's worth mentioning that the objective of BRN Metaverse is to turn the time you spend in the game into income.
 
 ## Real-World Value of Earnings
 
