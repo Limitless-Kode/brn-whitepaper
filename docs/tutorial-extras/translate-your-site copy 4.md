@@ -78,96 +78,96 @@ When choosing characters, it is important to know their BASIC Stat ratios. Knowi
 
 :::
 
-:::info **⚔️ Barton n**
+:::info **⚔️ Barton**
 |**Attack Power**  | 126 | 
 |------|-------------|
-| **Health**|      4200    |  
+| **Health**|      2750    |  
 | **Energy**|         1000   |
-| **Defense**|         11   |
-| **Movement Speed**|         113   |
+| **Defense**|         5   |
+| **Movement Speed**|         110   |
 | **Attack Speed**|         0   |
 
 ::: 
 
-:::info **🛡️ Harley **
-|**Attack Power**  | 0| 
+:::info **🛡️Harley**
+|**Attack Power**  | 126| 
 |------|-------------|
-| **Health**|      4200    |  
+| **Health**|      2800    |  
 | **Energy**|         1000   |
-| **Defense**|         11   |
-| **Movement Speed**|         113   |
+| **Defense**|         5   |
+| **Movement Speed**|         110   |
 | **Attack Speed**|         0   |
 
 :::
 
 :::info **🥷🏼 Ninja**
-|**Attack Power**  | 0| 
+|**Attack Power**  | 132| 
 |------|-------------|
-| **Health**|      4200    |  
+| **Health**|      2650   |  
 | **Energy**|         1000   |
-| **Defense**|         11   |
-| **Movement Speed**|         113   |
-| **Attack Speed**|         0   |
+| **Defense**|        0   |
+| **Movement Speed**|         118   |
+| **Attack Speed**|         16  |
 
 ::: 
 
 :::info **🦾 Axer**
-|**Attack Power**  | 0| 
+|**Attack Power**  | 109| 
 |------|-------------|
-| **Health**|      4200    |  
+| **Health**|     3750    |  
 | **Energy**|         1000   |
-| **Defense**|         11   |
-| **Movement Speed**|         113   |
+| **Defense**|         13   |
+| **Movement Speed**|         103   |
 | **Attack Speed**|         0   |
 
 :::
 
 :::info **🤖 Metabot**
-|**Attack Power**  | 0| 
+|**Attack Power**  | 118 | 
 |------|-------------|
-| **Health**|      4200    |  
+| **Health**|      2550    |  
 | **Energy**|         1000   |
-| **Defense**|         11   |
-| **Movement Speed**|         113   |
+| **Defense**|         0   |
+| **Movement Speed**|         114   |
 | **Attack Speed**|         0   |
 
 :::
 
 :::info **⚡Metawatt**
-|**Attack Power**  | 0| 
+|**Attack Power**  | 139| 
 |------|-------------|
-| **Health**|      4200    |  
+| **Health**|      2600    |  
 | **Energy**|         1000   |
-| **Defense**|         11   |
-| **Movement Speed**|         113   |
+| **Defense**|         0   |
+| **Movement Speed**|         111   |
 | **Attack Speed**|         0   |
 
 :::
 
 :::info **🐠 Reef **
-|**Attack Power**  | 0| 
+|**Attack Power**  | 118 | 
 |------|-------------|
-| **Health**|      4200    |  
+| **Health**|      2600    |  
 | **Energy**|         1000   |
-| **Defense**|         11   |
-| **Movement Speed**|         113   |
+| **Defense**|         10   |
+| **Movement Speed**|         108   |
 | **Attack Speed**|         0   |
 
 :::
 
 :::info **⛓️ Router**
-|**Attack Power**  | 0| 
+|**Attack Power**  | 128| 
 |------|-------------|
-| **Health**|      4200    |  
+| **Health**|      2700    |  
 | **Energy**|         1000   |
-| **Defense**|         11   |
-| **Movement Speed**|         113   |
+| **Defense**|        0  |
+| **Movement Speed**|         118   |
 | **Attack Speed**|         0   |
 
 ::: 
 
 :::note 
-Just a quick note that NFTs are meant to boost your character's damage in the game. You'll receive basic ratios without any NFTs. To increase your character's power, you can acquire NFTs and perform alchemy on them.
+Just a quick note that Items are meant to boost your character's damage in the game. You'll receive basic ratios without any Items. To increase your character's power, you can acquire Items and perform alchemy on them.
 :::
 
 ## Skill and Ability System
@@ -176,115 +176,104 @@ Endless Ranger Awakening features a diverse cast of 12 characters, each with 4 a
 
 :::info **🧙🏻‍♀️ Witch**
 * Straight hit damage: 117
-* Skill 1: 125 Energy cost (360~545 Magic damage)
-* Skill 2: 235 Energy cost (285~450 Magic damage)
+* Skill 1: 125 Energy cost (335~485 Magic damage)
+* Skill 2: 235 Energy cost (275~425 Magic damage)
 * Skill 3: 100 Energy cost (10 seconds, 10 magic damage per second)
 * Skill 4: 540 Energy cost (400~650 Magic damage)
 :::
 
 :::info **🧝🏻‍♀️ Elf**
 * Straight hit damage: 130
-* Skill 1: Costs 140 Energy and deals 320-500 Physical damage.
-* Skill 2: Costs 200 Energy and deals 220-380 Physical damage.
-* Skill 3: Costs 175 Energy and deals 70 Physical damage per second for 5 seconds.
-* Skill 4: Costs 485 Energy and fires 10 arrows, dealing 25-40 Physical damage per arrow.
+* Skill 1: 140 Energy costs (240~385 Physical damage)
+* Skill 2: 200 Energy costs (115~260 Physical damage)
+* Skill 3: 175 Energy costs (10 arrows, 15~25 physical damage per Arrow)
+* Skill 4: 485 Energy costs (335~510 physical damage)
 :::
 
 
 
 :::info **⚓ Barbarossa**
 * Straight hit damage: 105
-* Skill 1: Costs 175  Energy and deals 220~380 Magic damage.
-* Skill 2: Costs 145 Energy and deals 30 Magic damage per second for 5 seconds
-* Skill 3: Costs 280 Energy and deals 230~320 Magic damage
-* Skill 4: Costs 400  Energy and deals 50~550 Magic damage
+* Skill 1: 175 Energy cost (115~265 Spell damage)
+* Skill 2: 145 Energy cost (-)
+* Skill 3: 280 Energy cost (195~345 Spell damage)
+* Skill 4: 400 Energy cost (275~425 Spell damage)
 :::
 
 
 
 :::info **🧚🏻Angel**
 * Straight hit damage: 115
-* Skill 1: Costs 120 Energy  (285~420 Magic damage)
-* Skill 2: Costs 145 Energy  (-)
-* Skill 3: Costs 275 Energy  (-)
-* Skill 4: Costs 460 Energy  (410~580 Magic damage)
+* Skill 1: 120 Energy cost (275~420 Spell damage)
+* Skill 2: 145 Energy cost (-)
+* Skill 3: The cost of 275 Energy (-)
+* Skill 4: 460 Energy cost (400~580 Spell damage)
 :::
 
 
 
-:::info **⚔️ Barton n**
+:::info **⚔️ Barton**
 * Straight hit damage: 126
-* Skill 1: Costs 140 Energy and deals 315~450 Physical damage.
-* Skill 2: Costs 175 Energy and grants +15 Physical bonus for 5 seconds.
-* Skill 3: Costs 260 Energy and deals 345~495 Physical damage.
-* Skill 4: Costs 425 Energy and has no effect.
+* Skill 1: 140 Energy cost (215~355 Physical damage)
+* Skill 2: 175 Energy cost (100~235 Physical damage)
+* Skill 3: 260 Energy cost (165~310 Physical damage)
+* Skill 4: 425 Energy cost (300~440 Physical damage)
 :::
 
 :::info **🛡️ Harley **
 * Straight hit damage: 126
-* Skill 1: 135 Energy cost (165~250 Physical damage. This damage is applied x2 times)
-* Skill 2: 150 Energy cost (-)
-* Skill 3: 285 Energy cost (310~445 Physical damage)
-* Skill 4:430 Energy cost (420~590 Physical damage)
+* Skill 1: 135 Energy cost (260~410 Physical damage)
+* Skill 2: The cost of 150 Energy (-)
+* Skill 3: 285 Energy cost (205~360 Physical damage)
+* Skill 4: 430 Energy cost (350~560 Physical damage)
 :::
 
 :::info **🥷🏼 Ninja**
 * Straight hit damage: 132
-* Skill 1: 185 Energy Cost (Throws 10 shurikens. 38~59 physical damage per shuriken)
-* Skill 2: 260 Energy Cost (335~450 physical damage)
-* Skill 3: 135 Energy Cost (-)
-* Skill 4: 420 Energy Cost (-, Clone that repeats normal attacks and skills)
+* Skill 1: 185 Energy cost (throws 10x shuriken. 35~45 physical damage per shuriken)
+* Skill 2: 260 Energy costs (115~245 Physical damage)
+* Skill 3: 135 Energy cost (155~290 Physical damage)
+* Skill 4: The cost of 420 Energy (-)
 :::
 
 :::info **🦾 Axer**
 * Straight hit damage: 109
-* Skill 1: 140 Energy cost (260~460 Physical damage)
-
-* Skill 2: 120 Energy cost (210~380 Magic damage)
-
-* Skill 3: 290 Energy cost (250~440 Physical damage)
-
-* Skill 4: 450 Energy cost (-)
+* Skill 1: 140 Energy cost (220~370 Physical damage)
+* Skill 2: 120 Energy cost (165~315 Spell damage)
+* Skill 3: 290 Energy cost (185~335 Physical damage)
+* Skill 4: The cost of 450 Energy (-)
 :::
 
 :::info **🤖 Metabot**
 * Straight hit damage: 118
-* Skill 1: 175 Energy cost (395~620 Magic damage)
-* Skill 2: 220 Energy cost (345~490 Magic damage)
-* Skill 3: 165 Energy cost (285~360 Magic damage)
-* Skill 4: 440 Energy cost (-)
+* Skill 1: 175 Energy cost (350~510 Spell damage)
+* Skill 2: 220 Energy cost (265~415 Spell damage)
+* Skill 3: The cost of 165 Energy (-)
+* Skill 4: 440 Energy cost (430~610 Spell damage)
 :::
 
 :::info **⚡Metawatt**
 * Straight hit damage: 139
-* Skill 1: Energy cost of 185 (315~490 Magic damage)
-* Skill 2: Energy cost of 275 (270~385 Magic damage)
-* Skill 3: Energy cost of 130 (-)
-* Skill 4: Energy cost of 410 (Lasts 5 seconds, 125 magic damage per second)
+* Skill 1: 185 Energy cost (285~430 Spell damage)
+* Skill 2: 275 Energy cost (215~365 Spell damage)
+* Skill 3: The cost of 130 Energy (-)
+* Skill 4: 410 Energy cost (380~580 Spell damage)
 :::
 
 :::info **🐠 Reef **
 * Straight hit damage: 118
-
-* Skill 1: Energy cost of 165 (285~425 Magic damage)
-
-* Skill 2: Energy cost of 260 (-)
-
-* kill 3: Energy cost of 125 (-)
-
-* Skill 4: Energy cost of 450 (390~610 Magic damage)
+* Skill 1: 165 Energy cost (265~425 Spell damage)
+* Skill 2: The cost of 260 Energy (-)
+* Skill 3: The cost of 125 Energy (-)
+* Skill 4: 450 Energy cost (415~580 Spell damage)
 :::
 
 :::info **⛓️ Router**
 * Straight hit damage: 128
-
-* Skill 1: Energy cost of 160 (155~250 Physical damage. This damage is applied x2 times)
-
-* Skill 2: Energy cost of 230 (290~435 Physical damage)
-
-* Skill 3: Energy cost of 145 (345~465 Physical damage)
-
-* Skill 4: Energy cost of 465 (-)
+* Skill 1: 160 Energy cost (250~500 Physical damage)
+* Skill 2: 230 Energy cost (115~245 Physical damage)
+* Skill 3: 145 Energy cost (150~285 Physical damage)
+* Skill 4: 465 Energy cost (245~375 Physical damage)
 ::: 
 
 
