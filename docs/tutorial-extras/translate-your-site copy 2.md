@@ -62,7 +62,7 @@ import TabItem from '@theme/TabItem';
 
 ## Character Development and Customization
 
-The most important way to develop your characters in our game is to customize them with NFTs. Basically, each character has 5 interchangeable inventories, and these inventories have three levels: T1, T2, and T3. The basic versions of these inventories will already be available to you when you start the game. You can access each NFT that will provide you with extra power instead of these basic inventories from BRN Metaverse's NFT Marketplace. Each NFT you buy for your character has different features that will benefit you. Additionally, if you buy and use all 5 NFTs for your character, you will gain extra features. In summary, the most important way to be superior to your opponents in BRN Metaverse game is to strengthen your character with NFTs. You can obtain these NFTs by buying them from the Marketplace or by battling within the game. The NFT sets for characters are as follows:
+The primary method of character development in our game is customization through Items. Each character is equipped with 5 inventories, categorized into three levels: Elite, Special, and Rare. The basic versions of these inventories are readily available at the start of the game. However, you have the option to enhance each Inventory by acquiring more powerful versions from the BRN Metaverse website or in-game Market in ERA. Each Item you acquire for your character provides unique benefits that can give you an advantage. Moreover, if you manage to acquire and utilize all 5 Items for your character, you will unlock additional abilities. In essence, to surpass your opponents in the BRN Metaverse game, it is crucial to strengthen your character with Items. These Items can be obtained by purchasing them from the Marketplace or by engaging in battles within the game. The sets of Items available for characters are as follows:
 
 + **Angel**: Wing, Armor, Boots, Necklace and Aura
 
@@ -88,27 +88,27 @@ The most important way to develop your characters in our game is to customize th
 
 + **Witch**: Wand, Hat, Armor, Cape and Boots
 
-### Powers of NFTs
+### Powers of Items
 
-Each character in our game has NFTs that add different powers to the characters. NFTs are divided into two categories for each character, "Weapon" and "Protector". Each character has one Weapon NFT and four Protector NFTs. The features provided by these NFTs to the characters are as follows;
+Each character in our game has Items that grant unique abilities to the characters. Items are divided into two categories for each character: "Weapon" and "Protector". Each character has one Weapon Item and four Protector Items. The features provided by these Items to the characters are as follows:
  
 #### Angel
 
 :::note NFT Weapon
 
 <Tabs>
-  <TabItem value="T⭐" label="T⭐">+5 Attack Power bonus & +40 HP bonus</TabItem>
-  <TabItem value="T⭐⭐ " label="T⭐⭐">+8 Attack power bonus 3% movement speed bonus, and +80 hp bonus</TabItem> 
-  <TabItem value="T⭐⭐⭐" label="T⭐⭐⭐">+10 Attack power bonus and +80 hp bonus</TabItem>
+  <TabItem value="⭐Elite " label="⭐Elite">+5 Attack Power bonus & +40 HP bonus</TabItem>
+  <TabItem value="⭐⭐Special " label="⭐⭐Special">+8 Attack power bonus 3% movement speed bonus, and +80 hp bonus</TabItem> 
+  <TabItem value="⭐⭐⭐Rare " label="⭐⭐⭐Rare ">+10 Attack power bonus and +80 hp bonus</TabItem>
 </Tabs>
 
 ::: 
 :::note NFT Protector
 
 <Tabs>
-  <TabItem value="T⭐" label="T⭐">+5 Defense increase and +30 Hp bonus (When the 4-Piece set is completed, it gains an additional +200 hp bonus.)</TabItem>
-  <TabItem value="T⭐⭐ " label="T⭐⭐">+7 Defense increase and +40 hp bonus (When the 4-Piece set is completed, it gains an additional +300 hp bonus.)</TabItem> 
-  <TabItem value="T⭐⭐⭐" label="T⭐⭐⭐">+2 Magic power bonus, +9 Defense increase, and +60 Hp bonus (When the 4-Piece set is completed, it gains an additional +400 hp bonus.)</TabItem>
+  <TabItem value="⭐Elite" label="⭐Elite">+5 Defense increase and +30 Hp bonus (When the 4-Piece set is completed, it gains an additional +200 hp bonus.)</TabItem>
+  <TabItem value="⭐⭐Special " label="T⭐⭐">+7 Defense increase and +40 hp bonus (When the 4-Piece set is completed, it gains an additional +300 hp bonus.)</TabItem> 
+  <TabItem value="⭐⭐⭐Rare " label="⭐⭐⭐Rare ">+2 Magic power bonus, +9 Defense increase, and +60 Hp bonus (When the 4-Piece set is completed, it gains an additional +400 hp bonus.)</TabItem>
 </Tabs>
 
 :::
@@ -118,18 +118,18 @@ Each character in our game has NFTs that add different powers to the characters.
 :::note NFT Weapon
 
 <Tabs>
-  <TabItem value="T⭐" label="T⭐">+3 Attack power bonus and +45 HP bonus</TabItem>
-  <TabItem value="T⭐⭐ " label="T⭐⭐">+6 Attack power bonus and +70 HP bonus</TabItem> 
-  <TabItem value="T⭐⭐⭐" label="T⭐⭐⭐">+10 Attack power bonus and +90 HP bonus</TabItem>
+  <TabItem value="⭐Elite" label="⭐Elite">+3 Attack power bonus and +45 HP bonus</TabItem>
+  <TabItem value="⭐⭐Special " label="⭐⭐Special ">+6 Attack power bonus and +70 HP bonus</TabItem> 
+  <TabItem value="⭐⭐⭐Rare " label="⭐⭐⭐Rare ">+10 Attack power bonus and +90 HP bonus</TabItem>
 </Tabs>
 
 ::: 
 :::note NFT Protector
 
 <Tabs>
-  <TabItem value="T⭐" label="T⭐">+6 defense increase and +35 HP bonus (When the 4-piece set is completed, it gains an additional +250 HP bonus.) </TabItem>
-  <TabItem value="T⭐⭐ " label="T⭐⭐">+7 defense increase and +45 HP bonus (When the 4-piece set is completed, it gains an additional +400 HP bonus.)</TabItem> 
-  <TabItem value="T⭐⭐⭐" label="T⭐⭐⭐">+10 defense increase and +55 HP bonus (When the 4-piece set is completed, it gains an additional +550 HP bonus.)</TabItem>
+  <TabItem value="⭐Elite" label="⭐Elite">+6 defense increase and +35 HP bonus (When the 4-piece set is completed, it gains an additional +250 HP bonus.) </TabItem>
+  <TabItem value="⭐⭐Special " label="⭐⭐Special ">+7 defense increase and +45 HP bonus (When the 4-piece set is completed, it gains an additional +400 HP bonus.)</TabItem> 
+  <TabItem value="⭐⭐⭐Rare " label="⭐⭐⭐Rare ">+10 defense increase and +55 HP bonus (When the 4-piece set is completed, it gains an additional +550 HP bonus.)</TabItem>
 </Tabs>
 
 :::
@@ -140,18 +140,18 @@ Each character in our game has NFTs that add different powers to the characters.
 :::note NFT Weapon
 
 <Tabs>
-  <TabItem value="T⭐" label="T⭐">+3 Attack power bonus and +50 HP bonus</TabItem>
-  <TabItem value="T⭐⭐ " label="T⭐⭐">+6 Attack power bonus and +75 HP bonus</TabItem> 
-  <TabItem value="T⭐⭐⭐" label="T⭐⭐⭐">+10 Attack power bonus and +100 HP bonus</TabItem>
+  <TabItem value="⭐Elite" label="⭐Elite">+3 Attack power bonus and +50 HP bonus</TabItem>
+  <TabItem value="⭐⭐Special " label="⭐⭐Special ">+6 Attack power bonus and +75 HP bonus</TabItem> 
+  <TabItem value="⭐⭐⭐Rare " label="⭐⭐⭐Rare ">+10 Attack power bonus and +100 HP bonus</TabItem>
 </Tabs>
 
 ::: 
 :::note NFT Protector
 
 <Tabs>
-  <TabItem value="T⭐" label="T⭐">+6 Defense increase and +40 HP bonus (When the 4-piece set is completed, an additional +200 HP bonus is gained.) </TabItem>
-  <TabItem value="T⭐⭐ " label="T⭐⭐">+7 Defense increase and +45 HP bonus (When the 4-piece set is completed, an additional +375 HP bonus is gained.)</TabItem> 
-  <TabItem value="T⭐⭐⭐" label="T⭐⭐⭐">+10 Defense increase and +50 HP bonus (When the 4-piece set is completed, an additional +550 HP bonus is gained.)</TabItem>
+  <TabItem value="⭐Elite" label="⭐Elite">+6 Defense increase and +40 HP bonus (When the 4-piece set is completed, an additional +200 HP bonus is gained.) </TabItem>
+  <TabItem value="⭐⭐Special " label="⭐⭐Special ">+7 Defense increase and +45 HP bonus (When the 4-piece set is completed, an additional +375 HP bonus is gained.)</TabItem> 
+  <TabItem value="⭐⭐⭐Rare " label="⭐⭐⭐Rare ">+10 Defense increase and +50 HP bonus (When the 4-piece set is completed, an additional +550 HP bonus is gained.)</TabItem>
 </Tabs>
 
 :::
@@ -162,18 +162,18 @@ Each character in our game has NFTs that add different powers to the characters.
 :::note NFT Weapon
 
 <Tabs>
-  <TabItem value="T⭐" label="T⭐">+7 Attack power bonus, +15 HP bonus, and +4 defense increase</TabItem>
-  <TabItem value="T⭐⭐ " label="T⭐⭐">+10 Attack power bonus, +30 HP bonus, and +6 defense increase</TabItem> 
-  <TabItem value="T⭐⭐⭐" label="T⭐⭐⭐">+13 Attack power bonus, +60 HP bonus, and +8 defense increase</TabItem>
+  <TabItem value="⭐Elite" label="⭐Elite">+7 Attack power bonus, +15 HP bonus, and +4 defense increase</TabItem>
+  <TabItem value="⭐⭐Special " label="⭐⭐Special ">+10 Attack power bonus, +30 HP bonus, and +6 defense increase</TabItem> 
+  <TabItem value="⭐⭐⭐Rare " label="⭐⭐⭐Rare ">+13 Attack power bonus, +60 HP bonus, and +8 defense increase</TabItem>
 </Tabs>
 
 ::: 
 :::note NFT Protector
 
 <Tabs>
-  <TabItem value="T⭐" label="T⭐">+3 defense increase and 35 HP bonus (When the 4-piece set is completed, it gains an additional +150 HP and +3% movement speed bonus.)</TabItem>
-  <TabItem value="T⭐⭐ " label="T⭐⭐">+4 defense increase and +45 HP increase (When the 4-piece set is completed, it gains an additional +250 HP and +5% movement speed bonus.)</TabItem> 
-  <TabItem value="T⭐⭐⭐" label="T⭐⭐⭐">+50 HP bonus, +6 defense increase, and +3% attack speed bonus (When the 4-piece set is completed, it gains an additional +400 HP and +7% movement speed bonus.)</TabItem>
+  <TabItem value="⭐Elite" label="⭐Elite">+3 defense increase and 35 HP bonus (When the 4-piece set is completed, it gains an additional +150 HP and +3% movement speed bonus.)</TabItem>
+  <TabItem value="⭐⭐Special " label="⭐⭐Special ">+4 defense increase and +45 HP increase (When the 4-piece set is completed, it gains an additional +250 HP and +5% movement speed bonus.)</TabItem> 
+  <TabItem value="⭐⭐⭐Rare " label="⭐⭐⭐Rare ">+50 HP bonus, +6 defense increase, and +3% attack speed bonus (When the 4-piece set is completed, it gains an additional +400 HP and +7% movement speed bonus.)</TabItem>
 </Tabs>
 
 :::
@@ -184,18 +184,18 @@ Each character in our game has NFTs that add different powers to the characters.
 :::note NFT Weapon
 
 <Tabs>
-  <TabItem value="T⭐" label="T⭐">+10 Attack power bonus and +25 HP bonus</TabItem>
-  <TabItem value="T⭐⭐ " label="T⭐⭐">+16 Attack power bonus and +50 HP bonus</TabItem> 
-  <TabItem value="T⭐⭐⭐" label="T⭐⭐⭐">+24 Attack power bonus and +75 HP bonus</TabItem>
+  <TabItem value="⭐Elite" label="⭐Elite">+10 Attack power bonus and +25 HP bonus</TabItem>
+  <TabItem value="⭐⭐Special " label="⭐⭐Special ">+16 Attack power bonus and +50 HP bonus</TabItem> 
+  <TabItem value="⭐⭐⭐Rare " label="⭐⭐⭐Rare ">+24 Attack power bonus and +75 HP bonus</TabItem>
 </Tabs>
 
 ::: 
 :::note NFT Protector
 
 <Tabs>
-  <TabItem value="T⭐" label="T⭐">+20 HP bonus and +3 defense increase (Additional +100 HP and +3% attack speed bonus when the 4-piece set is completed.)</TabItem>
-  <TabItem value="T⭐⭐ " label="T⭐⭐">+30 HP bonus, +4 defense increase, and +1 Attack power bonus (Additional +150 HP and +6% attack speed bonus when the 4-piece set is completed.)</TabItem> 
-  <TabItem value="T⭐⭐⭐" label="T⭐⭐⭐">+5 defense increase and +2 Attack power bonus (Additional +400 HP and +8% attack speed bonus when the 4-piece set is completed.)</TabItem>
+  <TabItem value="⭐Elite" label="⭐Elite">+20 HP bonus and +3 defense increase (Additional +100 HP and +3% attack speed bonus when the 4-piece set is completed.)</TabItem>
+  <TabItem value="⭐⭐Special " label="⭐⭐Special ">+30 HP bonus, +4 defense increase, and +1 Attack power bonus (Additional +150 HP and +6% attack speed bonus when the 4-piece set is completed.)</TabItem> 
+  <TabItem value="⭐⭐⭐Rare " label="⭐⭐⭐Rare ">+5 defense increase and +2 Attack power bonus (Additional +400 HP and +8% attack speed bonus when the 4-piece set is completed.)</TabItem>
 </Tabs>
 
 :::
@@ -206,18 +206,18 @@ Each character in our game has NFTs that add different powers to the characters.
 :::note NFT Weapon
 
 <Tabs>
-  <TabItem value="T⭐" label="T⭐">+6 Attack power bonus and +20 HP bonus</TabItem>
-  <TabItem value="T⭐⭐ " label="T⭐⭐">+12 Attack power bonus and +35 HP bonus</TabItem> 
-  <TabItem value="T⭐⭐⭐" label="T⭐⭐⭐">+22 Attack power bonus and +3% attack speed bonus</TabItem>
+  <TabItem value="⭐Elite" label="⭐Elite">+6 Attack power bonus and +20 HP bonus</TabItem>
+  <TabItem value="⭐⭐Special " label="⭐⭐Special ">+12 Attack power bonus and +35 HP bonus</TabItem> 
+  <TabItem value="⭐⭐⭐Rare " label="⭐⭐⭐Rare ">+22 Attack power bonus and +3% attack speed bonus</TabItem>
 </Tabs>
 
 ::: 
 :::note NFT Protector
 
 <Tabs>
-  <TabItem value="T⭐" label="T⭐">+4 defense increase and 30 HP bonus (When the 4-piece set is completed, it gains an additional +150 HP, +2% attack speed bonus, and +2% movement speed bonus.)</TabItem>
-  <TabItem value="T⭐⭐ " label="T⭐⭐">+6 defense increase, +45 HP increase (When the 4-piece set is completed, it gains an additional +250 HP, +4% attack speed bonus, and +4% movement speed bonus.)</TabItem> 
-  <TabItem value="T⭐⭐⭐" label="T⭐⭐⭐">+50 HP bonus, +8 defense increase (When the 4-piece set is completed, it gains an additional +450 HP, +6% attack speed bonus, and +5% movement speed bonus.)</TabItem>
+  <TabItem value="⭐Elite" label="⭐Elite">+4 defense increase and 30 HP bonus (When the 4-piece set is completed, it gains an additional +150 HP, +2% attack speed bonus, and +2% movement speed bonus.)</TabItem>
+  <TabItem value="⭐⭐Special " label="⭐⭐Special ">+6 defense increase, +45 HP increase (When the 4-piece set is completed, it gains an additional +250 HP, +4% attack speed bonus, and +4% movement speed bonus.)</TabItem> 
+  <TabItem value="⭐⭐⭐Rare " label="⭐⭐⭐Rare ">+50 HP bonus, +8 defense increase (When the 4-piece set is completed, it gains an additional +450 HP, +6% attack speed bonus, and +5% movement speed bonus.)</TabItem>
 </Tabs>
 
 :::
@@ -228,18 +228,18 @@ Each character in our game has NFTs that add different powers to the characters.
 :::note NFT Weapon
 
 <Tabs>
-  <TabItem value="T⭐" label="T⭐">+13 Attack power bonus and +25 HP bonus</TabItem>
-  <TabItem value="T⭐⭐ " label="T⭐⭐">+17 Attack power bonus and +40 HP bonu</TabItem> 
-  <TabItem value="T⭐⭐⭐" label="T⭐⭐⭐">+21 Attack power bonus and +70 HP bonus</TabItem>
+  <TabItem value="⭐Elite" label="⭐Elite">+13 Attack power bonus and +25 HP bonus</TabItem>
+  <TabItem value="⭐⭐Special " label="⭐⭐Special ">+17 Attack power bonus and +40 HP bonu</TabItem> 
+  <TabItem value="⭐⭐⭐Rare " label="⭐⭐⭐Rare ">+21 Attack power bonus and +70 HP bonus</TabItem>
 </Tabs>
 
 ::: 
 :::note NFT Protector
 
 <Tabs>
-  <TabItem value="T⭐" label="T⭐">+20 HP bonus and +2 defense increase (When the 4-piece set is completed, it gains an additional +85 HP.) </TabItem>
-  <TabItem value="T⭐⭐ " label="T⭐⭐">+2 Attack power bonus, +30 HP bonus, +3 defense increase (When the 4-piece set is completed, it gains an additional +125 HP.)</TabItem> 
-  <TabItem value="T⭐⭐⭐" label="T⭐⭐⭐">+4 Attack power bonus and +4 defense increase (When the 4-piece set is completed, it gains an additional +350 HP.)</TabItem>
+  <TabItem value="⭐Elite" label="⭐Elite">+20 HP bonus and +2 defense increase (When the 4-piece set is completed, it gains an additional +85 HP.) </TabItem>
+  <TabItem value="⭐⭐Special " label="⭐⭐Special ">+2 Attack power bonus, +30 HP bonus, +3 defense increase (When the 4-piece set is completed, it gains an additional +125 HP.)</TabItem> 
+  <TabItem value="⭐⭐⭐Rare " label="⭐⭐⭐Rare ">+4 Attack power bonus and +4 defense increase (When the 4-piece set is completed, it gains an additional +350 HP.)</TabItem>
 </Tabs>
 
 :::
@@ -250,18 +250,18 @@ Each character in our game has NFTs that add different powers to the characters.
 :::note NFT Weapon
 
 <Tabs>
-  <TabItem value="T⭐" label="T⭐">+11 Attack power bonus and +20 HP bonus</TabItem>
-  <TabItem value="T⭐⭐ " label="T⭐⭐">+17 Attack power bonus and +50 HP bonus</TabItem> 
-  <TabItem value="T⭐⭐⭐" label="T⭐⭐⭐">+25 Attack power bonus and +75 HP bonus</TabItem>
+  <TabItem value="⭐Elite" label="⭐Elite">+11 Attack power bonus and +20 HP bonus</TabItem>
+  <TabItem value="⭐⭐Special " label="⭐⭐Special ">+17 Attack power bonus and +50 HP bonus</TabItem> 
+  <TabItem value="⭐⭐⭐Rare " label="⭐⭐⭐Rare ">+25 Attack power bonus and +75 HP bonus</TabItem>
 </Tabs>
 
 ::: 
 :::note NFT Protector
 
 <Tabs>
-  <TabItem value="T⭐" label="T⭐">+20 HP bonus and +3 defense increase (When the 4-piece set is completed, it gains an additional +100 HP and +3% attack speed bonus.)</TabItem>
-  <TabItem value="T⭐⭐ " label="T⭐⭐">+30 HP bonus, +4 defense increase, and 1 Attack power bonus (When the 4-piece set is completed, it gains an additional +140 HP and +6% attack speed bonus.)</TabItem> 
-  <TabItem value="T⭐⭐⭐" label="T⭐⭐⭐">+5 defense increase and +2 Attack power bonus (When the 4-piece set is completed, it gains an additional +375 HP and +8% attack speed bonus.)</TabItem>
+  <TabItem value="⭐Elite" label="⭐Elite">+20 HP bonus and +3 defense increase (When the 4-piece set is completed, it gains an additional +100 HP and +3% attack speed bonus.)</TabItem>
+  <TabItem value="⭐⭐Special " label="⭐⭐Special ">+30 HP bonus, +4 defense increase, and 1 Attack power bonus (When the 4-piece set is completed, it gains an additional +140 HP and +6% attack speed bonus.)</TabItem> 
+  <TabItem value="⭐⭐⭐Rare " label="⭐⭐⭐Rare ">+5 defense increase and +2 Attack power bonus (When the 4-piece set is completed, it gains an additional +375 HP and +8% attack speed bonus.)</TabItem>
 </Tabs>
 
 :::
@@ -271,18 +271,18 @@ Each character in our game has NFTs that add different powers to the characters.
 :::note NFT Weapon
 
 <Tabs>
-  <TabItem value="T⭐" label="T⭐">+8 Attack power bonus and +25 HP bonus, +2 defense increase</TabItem>
-  <TabItem value="T⭐⭐ " label="T⭐⭐">+8 Attack power bonus and +25 HP bonus, +2 defense increase</TabItem> 
-  <TabItem value="T⭐⭐⭐" label="T⭐⭐⭐">+26 Attack power bonus and +5% attack speed bonus</TabItem>
+  <TabItem value="⭐Elite" label="⭐Elite">+8 Attack power bonus and +25 HP bonus, +2 defense increase</TabItem>
+  <TabItem value="⭐⭐Special " label="⭐⭐Special ">+8 Attack power bonus and +25 HP bonus, +2 defense increase</TabItem> 
+  <TabItem value="⭐⭐⭐Rare " label="⭐⭐⭐Rare ">+26 Attack power bonus and +5% attack speed bonus</TabItem>
 </Tabs>
 
 ::: 
 :::note NFT Protector
 
 <Tabs>
-  <TabItem value="T⭐" label="T⭐">+25 HP bonus and +3 defense increase (When the 4-piece set is completed, it gains an additional +125 HP and +3% movement speed bonus.)</TabItem>
-  <TabItem value="T⭐⭐ " label="T⭐⭐">+40 HP bonus, +5 defense increase (When the 4-piece set is completed, it gains an additional +200 HP and +5% movement speed bonus.)</TabItem> 
-  <TabItem value="T⭐⭐⭐" label="T⭐⭐⭐">+65 HP bonus, +7 defense increase, and +3% attack speed bonus (When the 4-piece set is completed, it gains an additional +250 HP and +7% movement speed bonus.)</TabItem>
+  <TabItem value="⭐Elite" label="⭐Elite">+25 HP bonus and +3 defense increase (When the 4-piece set is completed, it gains an additional +125 HP and +3% movement speed bonus.)</TabItem>
+  <TabItem value="⭐⭐Special " label="⭐⭐Special ">+40 HP bonus, +5 defense increase (When the 4-piece set is completed, it gains an additional +200 HP and +5% movement speed bonus.)</TabItem> 
+  <TabItem value="⭐⭐⭐Rare " label="⭐⭐⭐Rare ">+65 HP bonus, +7 defense increase, and +3% attack speed bonus (When the 4-piece set is completed, it gains an additional +250 HP and +7% movement speed bonus.)</TabItem>
 </Tabs>
 
 :::
@@ -292,18 +292,18 @@ Each character in our game has NFTs that add different powers to the characters.
 :::note NFT Weapon
 
 <Tabs>
-  <TabItem value="T⭐" label="T⭐">+5 Attack power bonus and +40 HP bonus</TabItem>
-  <TabItem value="T⭐⭐ " label="T⭐⭐">+8 Attack power bonus, +3% movement speed bonus, and +65 HP bonus</TabItem> 
-  <TabItem value="T⭐⭐⭐" label="T⭐⭐⭐">+10 Attack power bonus and +70 HP bonus</TabItem>
+  <TabItem value="⭐Elite" label="⭐Elite">+5 Attack power bonus and +40 HP bonus</TabItem>
+  <TabItem value="⭐⭐Special " label="⭐⭐Special ">+8 Attack power bonus, +3% movement speed bonus, and +65 HP bonus</TabItem> 
+  <TabItem value="⭐⭐⭐Rare " label="⭐⭐⭐Rare ">+10 Attack power bonus and +70 HP bonus</TabItem>
 </Tabs>
 
 ::: 
 :::note NFT Protector
 
 <Tabs>
-  <TabItem value="T⭐" label="T⭐">+5 Defense increase and +30 HP bonus (When the 4-piece set is completed, it gains an additional +175 HP bonus.)</TabItem>
-  <TabItem value="T⭐⭐ " label="T⭐⭐">+7 Defense increase and +40 HP bonus (When the 4-piece set is completed, it gains an additional +300 HP bonus.)</TabItem> 
-  <TabItem value="T⭐⭐⭐" label="T⭐⭐⭐">+2 Magic power bonus, +9 defense increase, and +60 HP bonus (When the 4-piece set is completed, it gains an additional +400 HP bonus.)</TabItem>
+  <TabItem value="⭐Elite" label="⭐Elite">+5 Defense increase and +30 HP bonus (When the 4-piece set is completed, it gains an additional +175 HP bonus.)</TabItem>
+  <TabItem value="⭐⭐Special " label="⭐⭐Special ">+7 Defense increase and +40 HP bonus (When the 4-piece set is completed, it gains an additional +300 HP bonus.)</TabItem> 
+  <TabItem value="⭐⭐⭐Rare " label="⭐⭐⭐Rare ">+2 Magic power bonus, +9 defense increase, and +60 HP bonus (When the 4-piece set is completed, it gains an additional +400 HP bonus.)</TabItem>
 </Tabs>
 
 :::
@@ -314,18 +314,18 @@ Each character in our game has NFTs that add different powers to the characters.
 :::note NFT Weapon
 
 <Tabs>
-  <TabItem value="T⭐" label="T⭐">+9 Attack power bonus and +25 HP bonus</TabItem>
-  <TabItem value="T⭐⭐ " label="T⭐⭐">+16 Attack power bonus and +3% attack speed bonus</TabItem> 
-  <TabItem value="T⭐⭐⭐" label="T⭐⭐⭐">+27 Attack power bonus and +5% attack speed bonus</TabItem>
+  <TabItem value="⭐Elite" label="⭐Elite">+9 Attack power bonus and +25 HP bonus</TabItem>
+  <TabItem value="⭐⭐Special " label="⭐⭐Special ">+16 Attack power bonus and +3% attack speed bonus</TabItem> 
+  <TabItem value="⭐⭐⭐Rare " label="⭐⭐⭐Rare ">+27 Attack power bonus and +5% attack speed bonus</TabItem>
 </Tabs>
 
 ::: 
 :::note NFT Protector
 
 <Tabs>
-  <TabItem value="T⭐" label="T⭐">+25 HP bonus and +3 defense increase (When the 4-piece set is completed, it gains an additional +100 HP and +3% movement speed bonus.)</TabItem>
-  <TabItem value="T⭐⭐ " label="T⭐⭐">+40 HP bonus, +5 defense increase (When the 4-piece set is completed, it gains an additional +200 HP and +5% movement speed bonus.)</TabItem> 
-  <TabItem value="T⭐⭐⭐" label="T⭐⭐⭐">+65 HP bonus, +7 defense increase, and +3% attack speed bonus (When the 4-piece set is completed, it gains an additional +240 HP and +7% movement speed bonus.)</TabItem>
+  <TabItem value="⭐Elite" label="⭐Elite">+25 HP bonus and +3 defense increase (When the 4-piece set is completed, it gains an additional +100 HP and +3% movement speed bonus.)</TabItem>
+  <TabItem value="⭐⭐Special " label="⭐⭐Special ">+40 HP bonus, +5 defense increase (When the 4-piece set is completed, it gains an additional +200 HP and +5% movement speed bonus.)</TabItem> 
+  <TabItem value="⭐⭐⭐Rare " label="⭐⭐⭐Rare ">+65 HP bonus, +7 defense increase, and +3% attack speed bonus (When the 4-piece set is completed, it gains an additional +240 HP and +7% movement speed bonus.)</TabItem>
 </Tabs>
 
 :::
@@ -335,25 +335,25 @@ Each character in our game has NFTs that add different powers to the characters.
 :::note NFT Weapon
 
 <Tabs>
-  <TabItem value="T⭐" label="T⭐">+12 Attack power bonus and +25 hp bonus</TabItem>
-  <TabItem value="T⭐⭐ " label="T⭐⭐">+16 Attack power bonus and +50 hp bonus</TabItem> 
-  <TabItem value="T⭐⭐⭐" label="T⭐⭐⭐">+21 Attack power bonus and +70 hp bonus</TabItem>
+  <TabItem value="⭐Elite" label="⭐Elite">+12 Attack power bonus and +25 hp bonus</TabItem>
+  <TabItem value="⭐⭐Special " label="⭐⭐Special ">+16 Attack power bonus and +50 hp bonus</TabItem> 
+  <TabItem value="⭐⭐⭐Rare " label="⭐⭐⭐Rare ">+21 Attack power bonus and +70 hp bonus</TabItem>
 </Tabs>
 
 ::: 
 :::note NFT Protector
 
 <Tabs>
-  <TabItem value="T⭐" label="T⭐">+20 hp bonus and +2 defense increase (Additional +85 hp when the 4-piece set is completed.)</TabItem>
-  <TabItem value="T⭐⭐ " label="T⭐⭐">+2 Attack power bonus, +30 hp bonus, +3 defense increase (Additional +125 hp when the 4-piece set is completed.)</TabItem> 
-  <TabItem value="T⭐⭐⭐" label="T⭐⭐⭐">+4 Attack power bonus and +4 defense increase (Additional +350 hp when the 4-piece set is completed.)</TabItem>
+  <TabItem value="⭐Elite" label="⭐Elite">+20 hp bonus and +2 defense increase (Additional +85 hp when the 4-piece set is completed.)</TabItem>
+  <TabItem value="⭐⭐Special " label="⭐⭐Special ">+2 Attack power bonus, +30 hp bonus, +3 defense increase (Additional +125 hp when the 4-piece set is completed.)</TabItem> 
+  <TabItem value="⭐⭐⭐Rare " label="⭐⭐⭐Rare ">+4 Attack power bonus and +4 defense increase (Additional +350 hp when the 4-piece set is completed.)</TabItem>
 </Tabs>
 
 :::
 
 ### Alchemy System & NFT 
 
-In our game, each NFT you acquire for your character comes with a +0 bonus. While using an NFT from the basic inventory will give you more power, the ability to increase that power even further is in your hands. With the alchemy system in our game, you can make the NFT you purchased more valuable and powerful. With the alchemy system, you can increase your inventory from +0 to +3. You will need two additional inventories for the alchemy process: Alchemy Stone and Alchemy Dust. If you don't have even one of these two inventories, you can't add a + to your NFT. You can buy Alchemy Stone with either Activity Tokens, the in-game currency, or with BRN Tokens from the NFT Marketplace. You can only buy Alchemy Dust with Activity Tokens in the game. Of course, even if you have both inventories, there is still a chance that you won't be able to add a +. If the alchemy process fails, your NFT will not be lost, only returned to its original state of +0. The alchemy success rates are as follows:
+Every item you purchase for your character in our game comes with a +0 bonus. While using an item from the basic inventory will provide you with more power, it's up to you to enhance this power further. Our game offers an alchemy system that allows you to increase the value and power of the item you purchased. You can upgrade your inventory from +0 to +3 using the alchemy system. To perform the alchemy process, you will need two additional inventories: Alchemy Stone and Alchemy Powder. Without these inventories, you won't be able to add a + to your item. The Alchemy Stone can be purchased from the store using Event Tokens or the in-game currency, ERA. Alchemy Powder, on the other hand, can only be obtained in the game using Activity Tokens. It's important to note that even if you have both inventories, there's still a chance that the addition of + might fail. In such cases, your item will not be lost but will simply return to its original +0 state. The success rates for alchemy are as follows:
 
 + +1 Success Rate = 20%
 
@@ -382,4 +382,4 @@ The bonuses you get from using alchemy on your NFT are as follows:
 
 :::  
 
-If alchemy fails, the NFT reverts back to +0. There is no risk of losing the NFT.
+If alchemy fails, the Items reverts back to +0. There is no risk of losing the Items.
