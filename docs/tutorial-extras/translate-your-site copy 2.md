@@ -107,7 +107,7 @@ Each character in our game has Items that grant unique abilities to the characte
 
 <Tabs>
   <TabItem value="⭐Elite" label="⭐Elite">+5 Defense increase and +30 Hp bonus (When the 4-Piece set is completed, it gains an additional +200 hp bonus.)</TabItem>
-  <TabItem value="⭐⭐Special " label="T⭐⭐">+7 Defense increase and +40 hp bonus (When the 4-Piece set is completed, it gains an additional +300 hp bonus.)</TabItem> 
+  <TabItem value="⭐⭐Special " label="⭐⭐Special">+7 Defense increase and +40 hp bonus (When the 4-Piece set is completed, it gains an additional +300 hp bonus.)</TabItem> 
   <TabItem value="⭐⭐⭐Rare " label="⭐⭐⭐Rare ">+2 Magic power bonus, +9 Defense increase, and +60 Hp bonus (When the 4-Piece set is completed, it gains an additional +400 hp bonus.)</TabItem>
 </Tabs>
 
