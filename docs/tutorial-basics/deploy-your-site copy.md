@@ -21,7 +21,7 @@ We have already completed strategic partnerships with 10+ gaming platforms, and 
 
 By creating compelling content and organizing tailored giveaways, we will effectively present the exceptional features of Endless Ranger Awakening game by BRN Metaverse to their extensive follower base. Our primary objective is to illustrate the Play to Earn concept, emphasizing the boundless economic opportunities users can explore within our ecosystem.
 
-These esteemed influencers will be duly acknowledged for their unwavering commitment and expertise in cultivating their communities, making them integral allies in our pursuit. As we introduce mainstream users to the unparalleled experience of the Endless Ranger Awakening, we will also educate them about the advantages of the Metaverse, NFT trading, and the potential for substantial rewards through active participation.
+These esteemed influencers will be duly acknowledged for their unwavering commitment and expertise in cultivating their communities, making them integral allies in our pursuit. As we introduce mainstream users to the unparalleled experience of the Endless Ranger Awakening, we will also educate them about the advantages of the Metaverse, Item trading, and the potential for substantial rewards through active participation.
 
 To promote our game, Endless Ranger Awakening "ERA," to large audiences in major markets, we plan to organize tournaments in designated regions and offer various prizes to participants. Our goal is to provide players with opportunities to test our game through regional tournaments, individual tournaments, or tournaments organized by major publishers in respective regions.
 
