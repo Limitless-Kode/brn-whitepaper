@@ -278,7 +278,7 @@ Endless Ranger Awakening features a diverse cast of 12 characters, each with 4 a
 
 
 :::note 
-Just a quick note that NFTs are meant to boost your character's damage in the game. You'll receive basic ratios without any NFTs. To increase your character's power, you can acquire NFTs and perform alchemy on them.
+Just a quick note that ıtems are meant to boost your character's damage in the game. You'll receive basic ratios without any ıtems. To increase your character's power, you can acquire ıtems and perform alchemy on them.
 ::: 
 
 ## PvP and PvE Systems
