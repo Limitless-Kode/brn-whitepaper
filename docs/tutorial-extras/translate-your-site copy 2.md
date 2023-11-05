@@ -82,7 +82,7 @@ The primary method of character development in our game is customization through
 
 + **Ninja**: Dagger, Shuriken, Armor, Mask and Bracelet
 
-+ **Reef**: Sword, Shoulder Pads, Bracelet, Belt and Tattoo
++ **Reef**: Sword, bracelet, shoulder patch, skin , shield
 
 + **Router**: Chain, Helmet, Upper Body, Lower Body and Tattoo
 
