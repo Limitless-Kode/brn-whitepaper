@@ -361,7 +361,7 @@ Every item you purchase for your character in our game comes with a +0 bonus. Wh
 
 + +3 Success Rate = 3%
 
-The bonuses you get from using alchemy on your NFT are as follows:
+The bonuses you get from using alchemy on your ıtems are as follows:
 
 :::info Weapon
 
