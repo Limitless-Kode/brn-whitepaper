@@ -16,7 +16,7 @@ In the Endless Ranger Awakening, there are a total of 12 characters and 6 roles.
 
 **Warrior:** "Barton and Harley" - These characters are experts in balanced combat. They can deal sudden damage while also being effective in defense. They have special skills that can cause sudden high damage. Additionally, each character's passive skills can significantly affect the character's power balance.
 
-**Mage:** "Metabot and Witch" - These characters specialize in dealing instant intense damage. Their defenses and health are lower, but their magic powers are greater. Having a mage in your team during combat can significantly increase your chances of winning.
+**Mage:** "Metawatt and Witch" - These characters specialize in dealing instant intense damage. Their defenses and health are lower, but their magic powers are greater. Having a mage in your team during combat can significantly increase your chances of winning.
 
 **Assassin:** "Ninja and Router" - These characters have balanced defense and health, but have high attack speed and power. They can move faster than their opponents and deal sudden high damage. These characters are important choices for catching and escaping enemies during combat.
 
@@ -24,7 +24,7 @@ In the Endless Ranger Awakening, there are a total of 12 characters and 6 roles.
 
 **Support:** "Angel and Reef" - These characters have high defense and health, but balanced attack speed and power. They are highly preferred in both individual and group battles and have special abilities to save their teammates' lives. They can provide life-saving assistance to their teammates by restoring health and providing shields to reduce damage. Having a Support role in your team during group battles is crucial for success.
 
-**Marksman:** "Elf and Metawatt" - These characters have balanced defense and health, but high attack power. They can deal intense damage with their skills and have the ability to attack from a distance compared to other characters. They deal a lot of damage in combat and play an important role in winning battles.
+**Marksman:** "Elf and Metabot" - These characters have balanced defense and health, but high attack power. They can deal intense damage with their skills and have the ability to attack from a distance compared to other characters. They deal a lot of damage in combat and play an important role in winning battles.
 
 :::tip
 The key to victory in individual and group combat is to create a well-structured team. Going into battle with players who have the same roles can decrease your chances of success.
