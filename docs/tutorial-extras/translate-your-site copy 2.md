@@ -94,7 +94,7 @@ Each character in our game has Items that grant unique abilities to the characte
  
 #### Angel
 
-:::note NFT Weapon
+:::note  Weapon
 
 <Tabs>
   <TabItem value="⭐Elite " label="⭐Elite">+5 Attack Power bonus & +40 HP bonus</TabItem>
@@ -103,7 +103,7 @@ Each character in our game has Items that grant unique abilities to the characte
 </Tabs>
 
 ::: 
-:::note NFT Protector
+:::note  Protector
 
 <Tabs>
   <TabItem value="⭐Elite" label="⭐Elite">+5 Defense increase and +30 Hp bonus (When the 4-Piece set is completed, it gains an additional +200 hp bonus.)</TabItem>
@@ -115,7 +115,7 @@ Each character in our game has Items that grant unique abilities to the characte
 
 #### Axer
 
-:::note NFT Weapon
+:::note  Weapon
 
 <Tabs>
   <TabItem value="⭐Elite" label="⭐Elite">+3 Attack power bonus and +45 HP bonus</TabItem>
@@ -124,7 +124,7 @@ Each character in our game has Items that grant unique abilities to the characte
 </Tabs>
 
 ::: 
-:::note NFT Protector
+:::note  Protector
 
 <Tabs>
   <TabItem value="⭐Elite" label="⭐Elite">+6 defense increase and +35 HP bonus (When the 4-piece set is completed, it gains an additional +250 HP bonus.) </TabItem>
@@ -137,7 +137,7 @@ Each character in our game has Items that grant unique abilities to the characte
 
 #### Barbarossa
 
-:::note NFT Weapon
+:::note  Weapon
 
 <Tabs>
   <TabItem value="⭐Elite" label="⭐Elite">+3 Attack power bonus and +50 HP bonus</TabItem>
@@ -146,7 +146,7 @@ Each character in our game has Items that grant unique abilities to the characte
 </Tabs>
 
 ::: 
-:::note NFT Protector
+:::note  Protector
 
 <Tabs>
   <TabItem value="⭐Elite" label="⭐Elite">+6 Defense increase and +40 HP bonus (When the 4-piece set is completed, an additional +200 HP bonus is gained.) </TabItem>
@@ -159,7 +159,7 @@ Each character in our game has Items that grant unique abilities to the characte
 
 #### Barton
 
-:::note NFT Weapon
+:::note  Weapon
 
 <Tabs>
   <TabItem value="⭐Elite" label="⭐Elite">+7 Attack power bonus, +15 HP bonus, and +4 defense increase</TabItem>
@@ -168,7 +168,7 @@ Each character in our game has Items that grant unique abilities to the characte
 </Tabs>
 
 ::: 
-:::note NFT Protector
+:::note  Protector
 
 <Tabs>
   <TabItem value="⭐Elite" label="⭐Elite">+3 defense increase and 35 HP bonus (When the 4-piece set is completed, it gains an additional +150 HP and +3% movement speed bonus.)</TabItem>
@@ -181,7 +181,7 @@ Each character in our game has Items that grant unique abilities to the characte
 
 #### Elf
 
-:::note NFT Weapon
+:::note  Weapon
 
 <Tabs>
   <TabItem value="⭐Elite" label="⭐Elite">+10 Attack power bonus and +25 HP bonus</TabItem>
@@ -190,7 +190,7 @@ Each character in our game has Items that grant unique abilities to the characte
 </Tabs>
 
 ::: 
-:::note NFT Protector
+:::note  Protector
 
 <Tabs>
   <TabItem value="⭐Elite" label="⭐Elite">+20 HP bonus and +3 defense increase (Additional +100 HP and +3% attack speed bonus when the 4-piece set is completed.)</TabItem>
@@ -203,7 +203,7 @@ Each character in our game has Items that grant unique abilities to the characte
 
 #### Harley
 
-:::note NFT Weapon
+:::note  Weapon
 
 <Tabs>
   <TabItem value="⭐Elite" label="⭐Elite">+6 Attack power bonus and +20 HP bonus</TabItem>
@@ -212,7 +212,7 @@ Each character in our game has Items that grant unique abilities to the characte
 </Tabs>
 
 ::: 
-:::note NFT Protector
+:::note  Protector
 
 <Tabs>
   <TabItem value="⭐Elite" label="⭐Elite">+4 defense increase and 30 HP bonus (When the 4-piece set is completed, it gains an additional +150 HP, +2% attack speed bonus, and +2% movement speed bonus.)</TabItem>
@@ -225,7 +225,7 @@ Each character in our game has Items that grant unique abilities to the characte
 
 #### Metabot
 
-:::note NFT Weapon
+:::note  Weapon
 
 <Tabs>
   <TabItem value="⭐Elite" label="⭐Elite">+13 Attack power bonus and +25 HP bonus</TabItem>
@@ -234,7 +234,7 @@ Each character in our game has Items that grant unique abilities to the characte
 </Tabs>
 
 ::: 
-:::note NFT Protector
+:::note  Protector
 
 <Tabs>
   <TabItem value="⭐Elite" label="⭐Elite">+20 HP bonus and +2 defense increase (When the 4-piece set is completed, it gains an additional +85 HP.) </TabItem>
@@ -247,7 +247,7 @@ Each character in our game has Items that grant unique abilities to the characte
 
 #### Metawatt
 
-:::note NFT Weapon
+:::note  Weapon
 
 <Tabs>
   <TabItem value="⭐Elite" label="⭐Elite">+11 Attack power bonus and +20 HP bonus</TabItem>
@@ -256,7 +256,7 @@ Each character in our game has Items that grant unique abilities to the characte
 </Tabs>
 
 ::: 
-:::note NFT Protector
+:::note  Protector
 
 <Tabs>
   <TabItem value="⭐Elite" label="⭐Elite">+20 HP bonus and +3 defense increase (When the 4-piece set is completed, it gains an additional +100 HP and +3% attack speed bonus.)</TabItem>
@@ -268,7 +268,7 @@ Each character in our game has Items that grant unique abilities to the characte
 
 #### Ninja
 
-:::note NFT Weapon
+:::note  Weapon
 
 <Tabs>
   <TabItem value="⭐Elite" label="⭐Elite">+8 Attack power bonus and +25 HP bonus, +2 defense increase</TabItem>
@@ -277,7 +277,7 @@ Each character in our game has Items that grant unique abilities to the characte
 </Tabs>
 
 ::: 
-:::note NFT Protector
+:::note  Protector
 
 <Tabs>
   <TabItem value="⭐Elite" label="⭐Elite">+25 HP bonus and +3 defense increase (When the 4-piece set is completed, it gains an additional +125 HP and +3% movement speed bonus.)</TabItem>
@@ -289,7 +289,7 @@ Each character in our game has Items that grant unique abilities to the characte
 
 
 #### Reef 
-:::note NFT Weapon
+:::note  Weapon
 
 <Tabs>
   <TabItem value="⭐Elite" label="⭐Elite">+5 Attack power bonus and +40 HP bonus</TabItem>
@@ -298,7 +298,7 @@ Each character in our game has Items that grant unique abilities to the characte
 </Tabs>
 
 ::: 
-:::note NFT Protector
+:::note  Protector
 
 <Tabs>
   <TabItem value="⭐Elite" label="⭐Elite">+5 Defense increase and +30 HP bonus (When the 4-piece set is completed, it gains an additional +175 HP bonus.)</TabItem>
@@ -311,7 +311,7 @@ Each character in our game has Items that grant unique abilities to the characte
 
 #### Router
 
-:::note NFT Weapon
+:::note  Weapon
 
 <Tabs>
   <TabItem value="⭐Elite" label="⭐Elite">+9 Attack power bonus and +25 HP bonus</TabItem>
@@ -320,7 +320,7 @@ Each character in our game has Items that grant unique abilities to the characte
 </Tabs>
 
 ::: 
-:::note NFT Protector
+:::note  Protector
 
 <Tabs>
   <TabItem value="⭐Elite" label="⭐Elite">+25 HP bonus and +3 defense increase (When the 4-piece set is completed, it gains an additional +100 HP and +3% movement speed bonus.)</TabItem>
@@ -332,7 +332,7 @@ Each character in our game has Items that grant unique abilities to the characte
 
 #### Witch
 
-:::note NFT Weapon
+:::note  Weapon
 
 <Tabs>
   <TabItem value="⭐Elite" label="⭐Elite">+12 Attack power bonus and +25 hp bonus</TabItem>
@@ -341,7 +341,7 @@ Each character in our game has Items that grant unique abilities to the characte
 </Tabs>
 
 ::: 
-:::note NFT Protector
+:::note  Protector
 
 <Tabs>
   <TabItem value="⭐Elite" label="⭐Elite">+20 hp bonus and +2 defense increase (Additional +85 hp when the 4-piece set is completed.)</TabItem>
@@ -351,7 +351,7 @@ Each character in our game has Items that grant unique abilities to the characte
 
 :::
 
-### Alchemy System & NFT 
+### Alchemy System & Item 
 
 Every item you purchase for your character in our game comes with a +0 bonus. While using an item from the basic inventory will provide you with more power, it's up to you to enhance this power further. Our game offers an alchemy system that allows you to increase the value and power of the item you purchased. You can upgrade your inventory from +0 to +3 using the alchemy system. To perform the alchemy process, you will need two additional inventories: Alchemy Stone and Alchemy Powder. Without these inventories, you won't be able to add a + to your item. The Alchemy Stone can be purchased from the store using Event Tokens or the in-game currency, ERA. Alchemy Powder, on the other hand, can only be obtained in the game using Activity Tokens. It's important to note that even if you have both inventories, there's still a chance that the addition of + might fail. In such cases, your item will not be lost but will simply return to its original +0 state. The success rates for alchemy are as follows:
 
@@ -363,7 +363,7 @@ Every item you purchase for your character in our game comes with a +0 bonus. Wh
 
 The bonuses you get from using alchemy on your NFT are as follows:
 
-:::info NFT Weapon
+:::info Weapon
 
 <Tabs>
   <TabItem value="➕1" label="➕1">+6 Attack power</TabItem>
@@ -372,7 +372,7 @@ The bonuses you get from using alchemy on your NFT are as follows:
 </Tabs>
 
 ::: 
-:::info NFT Protector
+:::info Protector
 
 <Tabs>
   <TabItem value="➕1" label="➕1">+3 Defense and +30 HP</TabItem>
