@@ -299,7 +299,7 @@ Additionally, before the ranked leaderboard is reset, the player who ranks 1st w
 
 >**Ranking System Awards**
 
->**1st**   $400 + 1x 100% Item Box, 3x ERA Ticket + Special Title
+>**1st**   $400 + 1x 100% Item Box+ 300 Activity Token + 1 ERA Ticket + Special Title
 
 Rewards will be given to increase players' motivation with each rank transition. These rewards will be sent to the players' inbox by the system. The rewarding will be applied for every full rank achieved.
 
@@ -310,7 +310,7 @@ Rewards will be given to increase players' motivation with each rank transition.
 - When transitioning from Platinum 3 to Diamond 1, 80x Activity Tokens will be rewarded.
 - When transitioning from Diamond 3 to Endless, 200x Activity Tokens + 3x Chance Card + 3 Global will be rewarded.
 
->**2nd**   
+>**2nd**    ERA Ticket + 150 Activity Token
 
 
 ### Unique (Boss) Rank
@@ -327,9 +327,9 @@ You can earn income by ranking in the Unique (Boss) Arenas that are found in 6 d
 
 >**Boss Rank Awards**
 
->**1st**   $400 + 2 NFT Ticket Boxes + 300 Activity Tokens + Title + Special Pet
+>**1st**   $400 + 3 ERA Ticket + 300 Activity Tokens + Title + Special Pet
 
->**2nd**   NFT TICKET BOX + 150 Activity Tokens
+>**2nd**   2 ERA Ticket + 150 Activity Tokens
 
 >**3rd**   150 Activity Tokens 
 
@@ -346,8 +346,8 @@ You can participate in Event Arenas with 6 different modes (Space Station, War I
 + 100 rank points for entering Clan Battle
 
 >**Activity Rank Rewards**
->**1st** $350 + 1 NFT BOX + 300 Activity Tokens + 1 Special Pet + Title
+>**1st** $350 + 1 ERA Ticket + 300 Activity Tokens + 1 Special Pet + Title
 
->**2nd** 1 NFT BOX + 150 Activity Tokens
+>**2nd** 1 ERA Ticket + 150 Activity Tokens
 
->**3rd** 1 NFT Ticket Box + 100 Activity Tokens
+>**3rd** 1 ERA Ticket + 100 Activity Tokens
