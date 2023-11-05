@@ -43,7 +43,7 @@ You can earn income by ranking in the Unique (Boss) Arenas that are found in 6 d
 
 >**Boss Rank Awards**
 
->**1st**   $400 + 3 ERA Ticket Boxes + 300 Activity Tokens + Title + Special Pet
+>**1st**   $400 + 3 ERA Ticket + 300 Activity Tokens + Title + Special Pet
 
 >**2nd**   ERA TICKET + 150 Activity Tokens
 
