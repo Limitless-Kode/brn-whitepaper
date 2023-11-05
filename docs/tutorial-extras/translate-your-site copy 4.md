@@ -122,7 +122,7 @@ When choosing characters, it is important to know their BASIC Stat ratios. Knowi
 
 :::
 
-:::info **🤖 Metabot**
+:::info **🤖 Metawatt**
 |**Attack Power**  | 118 | 
 |------|-------------|
 | **Health**|      2550    |  
@@ -133,7 +133,7 @@ When choosing characters, it is important to know their BASIC Stat ratios. Knowi
 
 :::
 
-:::info **⚡Metawatt**
+:::info **⚡Metabot**
 |**Attack Power**  | 139| 
 |------|-------------|
 | **Health**|      2600    |  
@@ -162,7 +162,7 @@ When choosing characters, it is important to know their BASIC Stat ratios. Knowi
 | **Energy**|         1000   |
 | **Defense**|        0  |
 | **Movement Speed**|         118   |
-| **Attack Speed**|         0   |
+| **Attack Speed**|         16 |
 
 ::: 
 
@@ -179,7 +179,7 @@ Endless Ranger Awakening features a diverse cast of 12 characters, each with 4 a
 * Skill 1: 125 Energy cost (335~485 Magic damage)
 * Skill 2: 235 Energy cost (275~425 Magic damage)
 * Skill 3: 100 Energy cost (10 seconds, 10 magic damage per second)
-* Skill 4: 540 Energy cost (400~650 Magic damage)
+* Skill 4: 540 Energy cost (430~630 Magic damage)
 :::
 
 :::info **🧝🏻‍♀️ Elf**
