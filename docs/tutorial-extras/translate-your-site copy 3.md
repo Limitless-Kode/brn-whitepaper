@@ -295,7 +295,7 @@ Endless is the final rank, and once a player reaches this rank, their goal will 
 
 NOTE: The ranked leaderboard will be reset at the beginning of each month.
 
-Additionally, before the ranked leaderboard is reset, the player who ranks 1st will receive 1x 100% NFT Box, 3x ERA Ticket + Special Title, and $50 cash.
+Additionally, before the ranked leaderboard is reset, the player who ranks 1st will receive 1x Item Box, 3x ERA Ticket + Special Title, and $50 cash.
 
 >**Ranking System Awards**
 
@@ -315,14 +315,14 @@ Rewards will be given to increase players' motivation with each rank transition.
 
 ### Unique (Boss) Rank
 
-You can earn income by ranking in the Unique (Boss) Arenas that are found in 6 different modes (Split, Flytrap, Rocfire, Robocrap, Wild, Reefest, Demon). Additionally, you can obtain NFT Ticket Box, Activity Token Box or Activity Token from the unique monsters you kill in these arenas, and earn Unique Rank Points that will affect your ranking. 
+You can earn income by ranking in the Unique (Boss) Arenas that are found in 6 different modes (Split, Flytrap, Rocfire, Robocrap, Wild, Reefest, Demon). Additionally, you can obtain ERA Ticket , Activity Token Box or Activity Token from the unique monsters you kill in these arenas, and earn Unique Rank Points that will affect your ranking. 
 
 + When you kill FlyTrap, you obtain an activity token box and gain 10 points that will affect your unique rank.
 + When you kill Reefest, you obtain an activity token box and gain 10 points that will affect your unique rank.
 + When you kill Robocrab, you obtain an activity token box and gain 10 points that will affect your unique rank.
 + When you kill Rocfire, you obtain an activity token box and gain 10 points that will affect your unique rank.
 + When you kill Split, you obtain an activity token box and gain 10 points that will affect your unique rank.
-+ When you kill Wild, you obtain 1 NFT ticket box and gain 100 points that will affect your unique rank.
++ When you kill Wild, you obtain 1 Era Ticket and gain 100 points that will affect your unique rank.
 + When you kill Demon (in the War in Hell arena), you obtain 20 activity tokens and gain 25 points that will affect your unique rank.
 
 >**Boss Rank Awards**
