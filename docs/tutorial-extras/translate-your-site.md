@@ -16,4 +16,4 @@ BRN Metaverse supports current VR/AR technology, and we plan to create our own V
 
 ## Update Policy
 
-We have created a regular update schedule to ensure that the BRN Metaverse always embraces innovative ideas for its universe. With each update, new areas and structures will be added to the game, such as new characters and NFTs, new event areas, ecosystems, and revenue models. We will share updates with players regularly on our official pages, and we welcome feedback about our events.
+We have created a regular update schedule to ensure that the BRN Metaverse always embraces innovative ideas for its universe. With each update, new areas and structures will be added to the game, such as new characters and ıtems, new event areas, ecosystems, and revenue models. We will share updates with players regularly on our official pages, and we welcome feedback about our events.
