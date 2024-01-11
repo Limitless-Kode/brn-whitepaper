@@ -4,7 +4,7 @@ sidebar_position: 8
 
 # Tokenomics
 
-![Docs Version Dropdown](./img/tokenN.png)
+![Docs Version Dropdown](./img/Screenshot 2024-01-11 at 23.08.46.png)
 ## **Maximum Supply**
 **254.000.000 BRN** 
 
