@@ -6,11 +6,11 @@ sidebar_position: 8
 
 ![Docs Version Dropdown](./img/tokenomics2.png)
 ## **Maximum Supply**
-**254.000.000 BRN** 
+**228.000.000 BRN** 
 
 :::danger Locked Supply
 
-**225,000,000 BRN**
+**200,000,000 BRN**
 **View at** [ **Bscscan** ](https://bscscan.com/token/0x926ecC7687fCFB296E97a2b4501F41A6f5F8C214?a=0x0c89c0407775dd89b12918b9c0aa42bf96518820)
 
 :::
