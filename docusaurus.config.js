@@ -87,7 +87,7 @@ const config = {
             //  type: 'docSidebar',
             // sidebarId: 'tutorialSidebar',
             // position: 'left',
-            // label: 'Version 1.5',
+            // label: 'Version 2.1',
             //  },
 
 
