@@ -75,7 +75,7 @@ const config = {
         // Replace with your project's social card
         image: 'img/docusaurus-social-card.jpg',
         navbar: {
-          title: 'BRN Metaverse Whitepaper V 1.5',
+          title: 'BRN Metaverse Whitepaper V 2.1',
           logo: {
             alt: 'My Site Logo',
             src: 'img/my-logo.png',
