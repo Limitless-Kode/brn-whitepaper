@@ -4,7 +4,7 @@ sidebar_position: 8
 
 # Tokenomics
 
-![Docs Version Dropdown](./img/tokenomics web sitesi.png)
+![Docs Version Dropdown](./img/tokenomicswebsitesi.png)
 ## **Maximum Supply**
 **29.700.000 BRN** 
 
