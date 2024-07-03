@@ -4,33 +4,30 @@ sidebar_position: 8
 
 # Tokenomics
 
-![Docs Version Dropdown](./img/tokenomics2.png)
+![Docs Version Dropdown](./img/tokenomics web sitesi.png)
 ## **Maximum Supply**
-**228.000.000 BRN** 
-
-:::danger Locked Supply
-
-**200,000,000 BRN**
-**View at** [ **Bscscan** ](https://bscscan.com/token/0x926ecC7687fCFB296E97a2b4501F41A6f5F8C214?a=0x0c89c0407775dd89b12918b9c0aa42bf96518820)
-
-:::
+**29.700.000 BRN** 
 
 ## **Total Supply**
-**29.000.000 BRN**
-## **Burn** 
-The BRN token does not have the ability to produce new tokens, as the Mint function has been turned off. The project aims to periodically reduce the Maximum and total supply by burning tokens at certain intervals. This strategy of reducing the token supply aims to increase the token's value, as a scarce asset is often more valuable. BRN continues to regularly burn tokens in order to become more valuable.
+**28.000.000 BRN**
+
+## **Brain** 
+The allocation here is aimed at initiatives that drive the technological and strategic brainpower behind the project, possibly funding innovation, research, and development within the BRN Metaverse. 
 
 ## **Marketing** 
-A portion of the tokens are earmarked for marketing activities to strengthen our community and to revitalize our existing community.
+A specific portion is designated for marketing to expand the community's reach, engage more users, and enhance brand visibility across various platforms.
 
-## **Team** 
-Since the project's inception, the tokens allocated to the board of directors have been locked and have not been released to the market. These tokens will be unlocked when building a transparent and long-term ecosystem, and will then be locked again.
+## **Ecosystem** 
+This allocation supports the overall health and functionality of the BRN ecosystem, funding various operational needs, ongoing development, and future expansions.
 
 ## **Play to Earn** 
-Tokens are allocated to be buried in pools in order to develop the BRN Metaverse ecosystem and our Endless Rangers Awakening game.
+Tokens dedicated to this segment are used to reward players within the BRN Metaverse, particularly in the 'Endless Rangers Awakening' game, enhancing user engagement and incentivizing gameplay.
 
 ## **Stake** 
-Tokens are allocated to the pool of our Stake system, which is designed for BRN investors to earn passive income.
+This significant portion of tokens is reserved for staking purposes. Holders can stake their tokens to earn rewards, fostering long-term holding and stability within the token's ecosystem.
 
 ## **Liquidity** 
-Tokens are allocated to create and manage our pools on decentralized exchanges (DEX) and centralized exchanges (CEX).
+Reserved for ensuring sufficient liquidity on both decentralized and centralized exchanges, this helps in maintaining token stability and ensuring smoother trading experiences for users.
+
+## **Airdrop** 
+This small allocation is used for promotional airdrops to increase token distribution among potential new users and incentivize participation in the BRN ecosystem.
