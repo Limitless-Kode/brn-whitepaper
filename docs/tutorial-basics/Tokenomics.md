@@ -31,3 +31,6 @@ Reserved for ensuring sufficient liquidity on both decentralized and centralized
 
 ## **Airdrop** 
 This small allocation is used for promotional airdrops to increase token distribution among potential new users and incentivize participation in the BRN ecosystem.
+
+## **Presale** 
+Allocated for early investors, this percentage of tokens is distributed during the presale phase, offering early access to the tokens at a potentially lower price, which helps in raising initial funds for project development.
