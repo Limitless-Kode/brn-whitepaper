@@ -75,7 +75,7 @@ const config = {
         // Replace with your project's social card
         image: 'img/docusaurus-social-card.jpg',
         navbar: {
-          title: 'BRN Metaverse Whitepaper V 2.1',
+          title: 'BRN Metaverse Whitepaper V2.1',
           logo: {
             alt: 'My Site Logo',
             src: 'img/my-logo.png',
@@ -89,9 +89,6 @@ const config = {
             // position: 'left',
             // label: 'Version 2.1',
             //  },
-
-
-
           ],
         },
         footer: {
@@ -151,10 +148,7 @@ const config = {
                   label: 'brntoken.net',
                   href: 'https://brntoken.net/',
                 },
-                {
-                  label: 'NFT Marketplace',
-                  href: 'https://github.com/brntoken',
-                },
+                
                 {
                   label: 'GitHub',
                   href: 'https://github.com/brntoken',
